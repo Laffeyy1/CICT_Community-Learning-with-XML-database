@@ -1,0 +1,517 @@
+<?xml version="1.0"?>
+<lessons>
+    <unit unitNo="1">
+        <lesson>
+            <lid>1001</lid>
+            <title>LESSON 1 - WHAT IS PHP AND WHY SHOULD WE USE IT?</title>
+            <image/>
+            <body>At the end of the lesson, students shall be able to: - Define what is PHP;  - State the importance of PHP; - Describe the difference of between PHP among other scripted languages; - Distinguish the basic requirements; - Construct the proper way to save files and to install XAMPP.</body>
+            <attachment/>
+            <sublesson>
+                <lid>1001_1</lid>
+                <title>LESSON 1.1 - What is PHP?</title>
+                <image>lessons/image_2023-05-09_060832022.png</image>
+                <body>PHP is the acronym for Hypertext Preprocessor, a globally-used, open-source, general-purpose scripting language that is used for developing a dynamic website. It is a simple language that can be used efficiently for web development. It is mainly focused on server-side scripting, command-line scripting, and writing desktop applications.PHP language can be used on major operating systems like Linux, Microsoft Windows, Mac OS, and the like. Web developers have the freedom to choose an operating system and a web server depending on the website that needs to be made and the business type. &#xD;
+&lt;br&gt;&lt;br&gt;PHP Language Structure: "A PHP file can moreover have tags such as HTML and client-side scripts like JavaScript." PHP was planned to run with HTML, and it can be inserted into the HTML code. The figure below is an illustration of PHP inside an HTML code. The other example below shows that HTML elements may be placed inside PHP through echoing it as a string. (p tag is an HTML tag). Also, you can create PHP files without any HTML tags, and that is called a pure PHP file. </body>
+                <attachment/>
+            </sublesson>
+            <sublesson>
+                <lid>1001_2</lid>
+                <title>LESSON 1.2 - Why PHP? Comparing PHP to Other Web Programming Languages</title>
+                <image>lessons/image_2023-05-09_060858485.png</image>
+                <body>To better compare PHP to other web programming languages, let's have a look at the table below. PHP may be a scripting language/ programming language and exceptionally like C. Scripting languages are more valuable for developing websites that web designers make instead of programming languages. Programming languages require an advanced set of features that are built into the language. As PHP has both the attributes of scripting language and programming language, the clients - users can get the most excellent of both universes and can do so numerous things with it. One tap </body>
+                <attachment/>
+            </sublesson>
+            <sublesson>
+                <lid>1001_3</lid>
+                <title>LESSON 1.3 - Importance of PHP</title>
+                <image/>
+                <body>PHP is a reliable web development program. It is fast, secure, and accessible,that gives convenience to every programmer. PHP in developing websites is known to create dynamic pages. It is effortless to use in creating any type of dynamic website like e-commerce, a static blog, or it can be a social networking site, and many more. PHP is convenient for programmers to manipulate when it comes to formats, techniques, and different features. Here are some benefits of PHP in developing dynamic websites:&#xD;
+ &lt;br&gt;- &lt;b&gt;PHP is Free and Open Source:&lt;/b&gt; PHP web development is open-source, and all of its components are readily available and free to use.&#xD;
+ &lt;br&gt;- &lt;b&gt;PHP is a Cross-Platform:&lt;/b&gt; PHP runs on all leading OS or Operating Systems like Mac OS, Windows, etc. PHP can also be used in other types of platforms. It saves a lot of time and is very convenient to use.&#xD;
+ &lt;br&gt;- &lt;b&gt;PHP is Easy:&lt;/b&gt; Compared to other web development languages, PHP is easier to understand, it gives convenience, and it is not time-consuming.&#xD;
+ &lt;br&gt;- &lt;b&gt;PHP as an Easy and Efficient Development:&lt;/b&gt; It is easy to get different hosting companies that can offer a server for running the website. PHP is straightforward to develop and uses its own memory space, which results in the reduction of the loading time and the workload automatically. It also has a faster processing speed that makes the websites run efficiently, even with massivedata.&#xD;
+&lt;br&gt; - &lt;b&gt;PHP Built-in Functions:&lt;/b&gt; When it comes to reliability of functions, PHP has many built-in libraries that help programmers to carry out different tasks for their websites. It has various functions, such as connecting to other networks, sending emails, generating PDF documents, uploading a file, etc. If PHP is coded correctly, it can be reliable in performance and can also result in functional web language as well. All the codes that are used in this language can also be used to serve several web pages.&#xD;
+&lt;br&gt; - &lt;b&gt;PHP is Secured&lt;/b&gt;: PHP has excellent security that protects the site from threats and viruses. It is a secure way to develop dynamic websites and mobile apps. &#xD;
+&lt;br&gt;- &lt;b&gt;PHP is Flexible:&lt;/b&gt; There are possibilities of the websites to update its functionalities, and it might happen now and then. In some cases, PHP is flexible enough to fix the conflicts and handle the changes in a convenient way. &#xD;
+&lt;br&gt;- &lt;b&gt;PHP as an Easy Integration:&lt;/b&gt; Since there is no need for re-coding and redeveloping for the current existing software.PHP can easily be integrated with different and current software today.</body>
+                <attachment/>
+            </sublesson>
+            <sublesson>
+                <lid>1001_4</lid>
+                <title>LESSON 1.4 - Basic Requirements</title>
+                <image/>
+                <body>To create and run your PHP projects, you need the following software: &#xD;
+&lt;br&gt;- &lt;b&gt;Web Browser.&lt;/b&gt; Regularly, developing and debugging are performed on a local web server, whereas the production environment is found on an inaccessible web server. The current version empowers employing a local server. Employing an inaccessible server with FTP gets to will be backed in future versions. PHP support can be included in several web servers (Xitami, IIS, ect.), but the most commonly used is Apache HTTP Server.&#xD;
+&lt;br&gt; - &lt;b&gt;PHP Engine.&lt;/b&gt; The PHP supported engine version is PHP5.&#xD;
+ &lt;br&gt; - &lt;b&gt;Database Server.&lt;/b&gt; You'll utilize different database servers, whereas one of the foremost prevalent ones is the MySQL server.</body>
+                <attachment/>
+            </sublesson>
+            <sublesson>
+                <lid>1001_5</lid>
+                <title>LESSON 1.5 - Installing XAMPP and Saving Files</title>
+                <image/>
+                <body>To download and install XAMPP (abbreviation for cross-platform, Apache, MySQL, PHP, and Perl) on your Windows, follow the process below:&#xD;
+ &lt;br&gt;- Go to the Apache Friends site.&#xD;
+  &lt;br&gt; &lt;br&gt;- To save the file, click the XAMPP for Windows button.&#xD;
+  &lt;br&gt; &lt;br&gt;- To launch the installer, just double-click the downloaded file.&#xD;
+  &lt;br&gt; &lt;br&gt;- Then click the OK button. (See picture below.)&#xD;
+  &lt;br&gt; &lt;br&gt;- On the lower part, click the Next button.&#xD;
+  &lt;br&gt; &lt;br&gt;- XAMPP offers various components that you simply can install, like MySQL, PHP, phpMyAdmin, Apache, and many more. For the central portion, you'll be utilizing most of these components. As such, it's prescribed to take off the default options.&#xD;
+ &lt;br&gt; &lt;br&gt; - Select components, then click the Next button on the lower part.&#xD;
+  &lt;br&gt; &lt;br&gt;- You can use the default installed location, or you can also choose another folder to install the software in the "Select a folder" field.&#xD;
+ &lt;br&gt; &lt;br&gt; - Then click the Next button.&#xD;
+ &lt;br&gt; &lt;br&gt; - Remove the check on the "Learn more about Bitnami for XAMPP" option.&#xD;
+  &lt;br&gt; &lt;br&gt;- After that, click the Next button&#xD;
+  &lt;br&gt; &lt;br&gt;- If applicable, try to click the Allow access button to allow the app through the firewall.&#xD;
+  &lt;br&gt; &lt;br&gt;- On the lower part, click the Finish button.&#xD;
+  &lt;br&gt; &lt;br&gt;- Select your preferred language (English).&#xD;
+ &lt;br&gt; &lt;br&gt; - Then click the Save button. Once the process is done, the XAMPP Control Panel will launch, and you can now begin to configure the webserver environment</body>
+                <attachment/>
+            </sublesson>
+            <sublesson>
+                <lid>1001_6</lid>
+                <title>LESSON 1.6 - XAMPP Configuration on your Windows</title>
+                <image/>
+                <body>XAMPP Control Panel has three main sections. In the Modules section, you will see all the available web services. To start each service, click the Start button.&#xD;
+ &lt;br&gt; &lt;br&gt;Once you start some of the services, including Apache or MySQL, look on theright side, and you will see the process ID (PID) number and TCP/IP port (Port) numbers that what the service is using. For example, the default Apache uses TCP/IP port 80 and 443, while MySQL uses TCP/IP port 3306.&#xD;
+ &lt;br&gt; &lt;br&gt; To get an access to the administration dashboard, you can click the Admin button of each service and verify that everything is working correctly. On the right portion of the picture below, there are buttons to configure various aspects of the Configuration of Control Panel, including the Config button to configure what modules will automatically start when you launch the XAMPP. In clicking the Netstat button, you will see a list of services which is currently accessing the network, including the TCP/IP address, the port, and the process ID information. Moreover, from the control panel, there are quick-access buttons just to open the shell command-line utility, XAMPP installation folder, services, and closing the app.You will reach the logs section, wherein you can get a glance at what happens from time to time when you start a module or change a setting. It is the first place to look at when an error has occurred. The default settings work for people who uses XAMPP to create a free testing environment and to run a website. However, it depends on your setup configuration. You might be required to change the TCP/IP port number for the Apache server, the database upload size, or set a new password for phpMyAdmin.</body>
+                <attachment/>
+            </sublesson>
+            <sublesson>
+                <lid>1001_7</lid>
+                <title>LESSON 1.7 - Saving Files in XAMPP Folder</title>
+                <image/>
+                <body>In allowing XAMPP to execute your program (PHP file), it must be saved in a specified folder inside the XAMPP folder. &lt;br&gt; &lt;br&gt; Below are the steps you need to do when saving files in the XAMPP folder: &#xD;
+ &lt;br&gt;1. Navigate to the folder created for XAMPP (the folder created for XAMPP is specified on step 9 of Installing XAMPP). Mostly, the folder created for XAMPP is located at the C:/xampp. &#xD;
+ &lt;br&gt;2. Locate the folder htdocs(C:/xampp/htdocs). htdocs folder contains all files that may be executed in a browser using the services of XAMPP. &#xD;
+ &lt;br&gt;3. Inside the htdocs folder, you could save your files for your program, either HTML, CSS, JS, or PHP files. &#xD;
+ &lt;br&gt;4. Make sure that your files have specific file extensions. For PHP, your file extension must be .php for the browser to recognize that it is a PHP file. "To better manage your files, create your folder inside the htdocs folder. With that, all your files for your program/project is located in one directory."</body>
+                <attachment/>
+            </sublesson>
+            <sublesson>
+                <lid>1001_8</lid>
+                <title>LESSON 1.8 - Deploying Scripts in the Browser</title>
+                <image>lessons/image_2023-05-09_062104442.png</image>
+                <body>After saving your PHP file in C:/xampp/htdocs (or C:/xampp/htdocs/[folder_name] if you created a folder inside htdocs), running your script in a browser will allow you to see the output of your PHP codes.&#xD;
+&lt;br&gt;&lt;br&gt;Let's have the example below, assuming that we saved a file named index.phpin our folder web1 inside the htdocs folder. &#xD;
+&lt;br&gt;&lt;br&gt;&lt;i&gt;"Do not forget to start the service of the Apache server from XAMPP before running your script in the browser."&lt;i&gt;&#xD;
+&lt;br&gt; &lt;br&gt;&lt;i&gt;"When running your script in the browser, use localhost or 127.0.0.1. In that way, we are accessing the contents of the htdocs folder."&lt;i&gt;&#xD;
+&lt;br&gt;&lt;br&gt; On the example, we could see that the Uniform Resource Locator (URL) in our address bar is localhost/web%201/. Why it turned out to be like that? &lt;br&gt;&lt;br&gt;We use the localhost to run our scripts stored in the htdocs folder in the browser. Our folder name is web 1and the browser automatically converts the space into %20 since having spaces in a URL provides issues and problems. &#xD;
+&lt;br&gt;&lt;br&gt;Another thing that you might see (or haven't seen) is the running of our index.php file. Remember that our file name saved in the web 1 folder is index.php, yet it was still showing even though it is not stated in our URL. Why? &#xD;
+&lt;br&gt;&lt;br&gt;When running in a server, like Apache, in our case, it looks for index files in our folders. That's the reason why we saved our file as index.php. It is for the server to locate it by default, even without adding it to our URL. &#xD;
+&lt;br&gt;&lt;br&gt;We could have our URL as localhost/web%201/index.php, but since the server automatically loads index files, we could have our URL as simple as localhost/web%201/. "Index files may be saved using .html or .php as extension names. Having multiple index files may confuse your server which files to execute. Make sure you only have one index file per folder."</body>
+                <attachment/>
+            </sublesson>
+        </lesson>
+        <lesson>
+            <lid>1002</lid>
+            <title>LESSON 2 - THE BASICS OF PHP</title>
+            <image/>
+            <body>OBJECTIVES: At the end of the lesson, students shall be able to: - Define start and end tags or delimiters of PHP; - Recognize when to comment codes; - Describe what code cohabitation is; - Use PHP variables, constants, and superglobal variables; and - Implement different PHP operators.</body>
+            <attachment/>
+            <sublesson>
+                <lid>1002_1</lid>
+                <title>LESSON 2.1 - Start and End PHP Tag</title>
+                <image>lessons/image_2023-05-09_063603498.png</image>
+                <body>When PHP parses a record, it will look for an opening and closing labels, the "&lt;"?"php and?"&gt;" which tell PHP to begin and to stop translating the code between them. Parsing in this way permits PHP to be inserted in all sorts of distinctive documents, as the PHP parser disregards everything outside of a combined opening and closing PHP tags. &lt;br&gt;&lt;br&gt;&lt;i&gt;"These tags are also called delimiters."&lt;/i&gt; &#xD;
+&lt;br&gt;&lt;br&gt;PHP has an echo tag which is a short-hand to the more expansive php echo. PHP, moreover, permits an open tag since it is only accessible in case empowered by utilizing the short_open_tag php.ini configuration file directive, or if PHP was designed with the --enable-short-tags option).</body>
+                <attachment/>
+                
+            </sublesson>
+            <sublesson>
+                <lid>1002_2</lid>
+                <title>LESSON 2.2 - PHP Comment Tag</title>
+                <image>lessons/image_2023-05-09_063858402.png</image>
+                <body>A PHP comment tag is a line that's not executed as a portion of the program. Its only reason is to be noticed by somebody who is looking at the code.&#xD;
+&lt;br&gt;&lt;br&gt;Comments can be utilized to:  &#xD;
+&lt;br&gt;&lt;br&gt;- Understand the function of your code even by other programmers. &#xD;
+&lt;br&gt;&lt;br&gt;- A Reminder of what you did - Most software engineers have experienced coming back to their possess work a year or two afterward and taking to refigure out what have they done. Comments can recap you of what you were considering once you compose the code.</body>
+                <attachment/>
+            </sublesson>
+            <sublesson>
+                <lid>1002_3</lid>
+                <title>LESSON 2.3 - Code Cohabitation</title>
+                <image>lessons/image_2023-05-09_064206025.png</image>
+                <body>Your file consisted of three chunks of PHP code, each of which has printed some HTML text. In this section, you'll create a script that has PHP code stuck in the middle of your HTML, and you'll learn how these codes can peacefully coexist.</body>
+                <attachment/>
+            </sublesson>
+            <sublesson>
+                <lid>1002_4</lid>
+                <title>LESSON 2.4 - PHP Variables, Constants, and Superglobal Variables</title>
+                <image>lessons/image_2023-05-09_064513130.png</image>
+                <body>&lt;b&gt;(PHP Variables)&lt;/b&gt; &lt;br&gt; Variable may be a symbol or name that stands for a value. Variables are utilized for putting away values such as characters, numeric values, character strings, or memory addresses so that they can be utilized in any portion of the program. &#xD;
+&lt;br&gt;&lt;br&gt;&lt;b&gt;(Declare PHP Variables)&lt;/b&gt; &lt;br&gt; Variables in PHP must start with a $ (dollar sign) taken after by the name of the variable. A substantial variable name begins with a letter (A-Z, a-z) or emphasizes by an underscore (_), taken after by letters, numbers, or underscores. On the off chance that a variable title is more than one word, it can be isolated with an underscore (for the case $employee_code rather than $employeecode). A '$' is an extraordinary variable that cannot be assigned. Example: On the example above, the declared variables are $text, $number, and $name. "Variable names are case-sensitive ($age and $AGE are two different variables)." &#xD;
+&lt;br&gt;&lt;br&gt;&lt;b&gt;(PHP Constants)&lt;/b&gt; &lt;br&gt; A constant (name) is an identifier for a primary value. The value cannot be adjusted amid the script's execution. A substantial constant name begins with a letter or underscores with no dollar sign ($) before the name and by constant identifiers are always in an uppercase form. Constants are characterized by utilizing the define() function or by utilizing the const keyword outside a course definition as of PHP. The constant's name and value must be set inside the () parentheses. After characterizing, it can never be changed or indistinct. As it were, scalar information, i.e., Boolean, numbers, float, and string, can be contained in constants. In creating a constant, use the function define(). 'define(name, value, case-insensitive)' Where, name - indicates the name of the constant. value - indicates the value of the constant. case - insensitive - indicates whether the constant name ought to be case-insensitive. The default is false. Creating a constant with a case-sensitive name: And creating a constant with a case-insensitive name: "PHP Constants are global, and it can be utilized in the entire script." &#xD;
+&lt;br&gt;&lt;br&gt;&lt;b&gt;(PHP Superglobal Variables)&lt;/b&gt; &lt;br&gt; $GLOBALS is one of the PHP superglobal variables where can be used instead of the 'global' keyword to access variables from global scope, the variables which can be accessed from anywhere in a PHP script, even within functions. A few predefined variables in PHP are "superglobals," which implies that they are continuously available, regardless of scope, and you'll be able to get to them from any function, class, or file without having to do anything extraordinary. The rest of the superglobals will be discussed in Lesson 6 of this unit. PHP inserts all global variables in an object called $GLOBALS. The index of $GLOBAS holds the name of the variable. Example: &lt;br&gt;&lt;br&gt;&lt;i&gt;"In the example, since z is a variable present within the $GLOBALS array, it is also accessible from outside the function!"&lt;/i&gt;</body>
+                <attachment/>
+            </sublesson>
+            <sublesson>
+                <lid>1002_5</lid>
+                <title>LESSON 2.5 - PHP Operators</title>
+                <image/>
+                <body>&lt;b&gt;PHP Operators&lt;/b&gt;&#xD;
+&lt;br&gt;&lt;br&gt;An operator is somewhat taking one or more values in programming language and yields another value so that the development itself gets to be an expression. &#xD;
+&lt;br&gt;&lt;br&gt;Operators can be gathered base on the number of values they take. Unary operators take as it were one value, to illustrate '!' (the logical not operator) or '++' (the increment operator). &#xD;
+&lt;br&gt;&lt;br&gt;The binary operators take two values, such as the commonplace arithmetical operators + (plus) and - (minus), and the larger part of PHP operators drop into this category. At last, there's a single ternary operator.?, which takes three values; this can be ordinarily alluded to basically as "the ternary operator" (even though it might be more legitimately be called the conditional operator). &#xD;
+&lt;br&gt;&lt;br&gt;PHP Operators are utilized to perform various operations on variables and values. PHP partitions the operators within the following: &#xD;
+&lt;br&gt;- Arithmetic Operators &#xD;
+&lt;br&gt;- Assignment Operators &#xD;
+&lt;br&gt;- Comparison Operators &#xD;
+&lt;br&gt;- Increment or Decrement Operators &#xD;
+&lt;br&gt;- String Operators &#xD;
+&lt;br&gt;- Logical Operators &#xD;
+&lt;br&gt;- Array Operators &#xD;
+&lt;br&gt;- Conditional Assignment Operators &#xD;
+&lt;br&gt;&lt;br&gt;&lt;b&gt;(PHP Arithmetic Operators) &lt;/b&gt;&#xD;
+&lt;br&gt;PHP arithmetic operators are utilized with numeric values to perform various arithmetical operations, like addition, subtraction, etc. Remember the basic arithmetic from your school? These work just like those. The division operator ("/") outputs a float value unless the two operands are integers or strings that get changed over to integers, and the numbers are evenly divisible, wherein case the value of a number will be returned. For numbers division, see intdiv(). The operand of modulo is changed over to integers (by stripping the decimal portion) before handling. The output of the modulo operator will have the same sign as the profit &#x2014; the output of $a % $b will have the same sign as $a. Example: &#xD;
+&#xD;
+&lt;br&gt;&lt;br&gt;&lt;b&gt;(PHP Assignment Operators)&lt;/b&gt; - The assignment operator is "=". Your first disposition may be to think of this as "equal to". Do not. It indeed implies that the left operand gets set to the value of the expression on the proper (that's, "gets set to"). The value of an assignment operator is the value assigned. That's , the value of "$a = 3" is 3. It permits you to do a few dangerous things. Example: In expansion to the essential assignment operator, there are "combined operators" for all binary arithmetic, array union, and string operators that permit you to utilize a value in an expression and, after that, set its value to the result of that expression. Example: Note that the assignment duplicates the first variable to the modern one (assignment by value), so changes to one will not influence the other. It may also have significance in case you wish to duplicate something like a vast array inside a tight loop. A particular case to the regular assignment by value conduct inside PHP happens with objects, which are assigned by reference. Objects may be expressly replicated through the clone keyword. Assignment by reference is supported utilizing the "$var = $othervar;" language structure. Assignment by reference implies that both variables conclusion indicating at the same information, and nothing is replicated anywhere. PHP partitions the following operators below. We already discussed the arithmetic and assignment operators. Now, we will discuss the other operators: - Comparison operators - Increment/Decrement operators - Logical operators - String operators - Array operators - Conditional assignment operators (PHP Comparison Operators) - Comparison operators in PHP allow you to compare two different or equal values. Here are some examples of various comparisons, as shown below. In case you compare a number with a string, or the comparison includes numerical strings, at that point, each string is changed over to a number, and the comparison performed numerically. These rules, moreover, apply to the switch articulation. The sort transformation does not take put when the comparison is === or !== as these include comparing the sort as well as the value. (PHP Incrementing or Decrementing Operators) - C-style pre- and post-increment and decrement operators are supported in PHP. "The increment or decrement operators, as it were, affect numbers and strings. Arrays, objects, Boolean, and resources are not affected. Decrementing Invalid or NULL values have no impact as well, but increasing them results in 1." (PHP Logical Operators) - Logical operators are utilized to combine two conditional statements. (PHP String Operators ) - PHP has two operators that are extraordinarily outlined for strings. The concatenation operator ('.') is the primary, which returns the concatenated value of its right and left arguments. Next is the concatenating assignment operator ('.='), which appends the value on the right to the value on the left side. (PHP Array Operators) - A PHP Array Operators are utilized in comparing arrays. The + operator returns the right-hand array added to the left-hand array. For keys that exist in both clusters, the components from the left-hand array will be utilized, and the coordinating components from the right-hand array will be ignored.</body>
+                <attachment/>
+            </sublesson>
+        </lesson>
+        <lesson>
+            <lid>1003</lid>
+            <title>LESSON 3 - PHP CONDITIONAL AND LOOP STATEMENT</title>
+            <image/>
+            <body>OBJECTIVES: At the end of the lesson, students shall be able to: - Define the use of conditional statements and loops of PHP; - Describe the functions of each conditionals and loops; and - Use conditional statements and different loops in a program.</body>
+            <attachment/>
+            <sublesson>
+                <lid>1003_1</lid>
+                <title>LESSON 3.1 - PHP Conditional Statements</title>
+                <image/>
+                <body>Like most programming languages, PHP permits you to input in code that performs various actions according to the results of logical or comparative test conditions at run-time. It implies you'll make test conditions within the form of expressions that assesses to either correct or wrong and based on these results, and you'll perform specific actions. &#xD;
+&lt;br&gt;&lt;br&gt;Below are the statements in PHP that you can use to make decisions: &#xD;
+&lt;br&gt;&lt;br&gt;- The if statement &#xD;
+&lt;br&gt;- The if...else statement &#xD;
+&lt;br&gt;- The if...elseif....else statement &#xD;
+&lt;br&gt;- The switch case statement</body>
+                <attachment/>
+            </sublesson>
+            <sublesson>
+                <lid>1003_2</lid>
+                <title>LESSON 3.2 - The If Statements</title>
+                <image>lessons/image_2023-05-09_065045537.png</image>
+                <body>&lt;b&gt;(The if Statement)&lt;/b&gt; &#xD;
+&lt;br&gt;- The if statement is utilized to execute a piece of code only if the specified condition assesses to be correct. It is the basic PHP's conditional statements and can be written in: Example: &#xD;
+&lt;br&gt;&lt;br&gt;&lt;b&gt;(The if...else Statement)&lt;/b&gt; &#xD;
+&lt;br&gt;- You can enhance the decision-making process by giving a choice through including an else statement to the if statement. The if...else statement permits you to execute one piece of code if the required condition is assessing to be true and another piece of code if it is assessing to be untrue. It can be composed, like this: Example: The illustration below will display 'Have a nice weekend!' if the current day is Friday, something else will display 'Have a nice day!'. &#xD;
+&lt;br&gt;&lt;br&gt;&lt;b&gt;(The if...elseif...else Statement)&lt;/b&gt; - The if...elseif...else is a statement that is utilized to combine numerous if...elsestatements. Example: The figure illustrates that it will display 'Have a nice weekend!' if it is Friday, and 'Have a nice Sunday!' if it is Sunday, or else it will display 'Have a nice day!'. </body>
+                <attachment/>
+            </sublesson>
+            <sublesson>
+                <lid>1003_3</lid>
+                <title>LESSON 3.3 - The Switch Statement</title>
+                <image>lessons/image_2023-05-09_065344958.png</image>
+                <body>Switch statement is utilized to perform various actions based on different conditions.&#xD;
+&lt;br&gt;&lt;br&gt;&lt;b&gt;(If&#x2026;Else Vs. Switch Statement)&lt;/b&gt; - &#xD;
+&lt;br&gt;The switch statement is another approach to the if-else if-else statement, which does nearly the same thing. The switch statement tests a variable against an arrangement of values until it finds a match, and after that, it executes the code comparing to that match. &#xD;
+&lt;br&gt;&lt;i&gt;Example: The example below shows how we can use the switch statement to display different messages for each day.&lt;/i&gt;</body>
+                <attachment/>
+            </sublesson>
+            <sublesson>
+                <lid>1003_4</lid>
+                <title>LESSON 3.4 - Loop Statements</title>
+                <image/>
+                <body>Loops are utilized to execute a piece of code once more and more, as long as a particular condition is reached. The essential thought behind a loop is to automate the repetitive errands inside a program to save time and exertion. PHP supports four distinctive sorts of loops. &#xD;
+&lt;br&gt;&lt;br&gt;- FOR - loops through a piece of code until the counter comes to an indicated number &#xD;
+&lt;br&gt;&lt;br&gt;- WHILE - loops through a piece of code as long as the condition indicated is assessed to be correct. &#xD;
+&lt;br&gt;&lt;br&gt;- DO...WHILE - the piece of code executed once after that condition is assessed. If the condition is correct, the statement is repeated as long as the indicatedcondition is correct. &#xD;
+&lt;br&gt;&lt;br&gt;- FOREACH - loops through a piece of code for each element in an array. You may learn how to loop through the values of array utilizing the foreach() loop at the end of this lesson. The foreach() loop works mainly with arrays.</body>
+                <attachment/>
+            </sublesson>
+            <sublesson>
+                <lid>1003_5</lid>
+                <title>LESSON 3.5 - The For Loop Statement</title>
+                <image>lessons/image_2023-05-09_070612276.png</image>
+                <body>The for loop repeats the piece of code as long as a particular condition is reached. It is regularly utilized to execute a piece of code for a certain number of times. &#xD;
+&lt;br&gt;&lt;br&gt;The parameters for the "for loop" have the following interpretations: &#xD;
+&lt;br&gt;- the initialization &#x2014; assign to initialize the counter variables and assessed once unconditionally before the first execution of the body of the loop. &#xD;
+&lt;br&gt;- The condition &#x2014; within the starting of each iteration, the condition is assessed. On the off chance that it assesses to be true, the loop proceeds, and the nested statements are executed. If it assesses to be wrong, the execution of the loop will end. &#xD;
+&lt;br&gt;S- The afterthought &#x2014; changes the loop counter with a new value. It assesses at the end of each iteration. The example above defines a loop that starts with $i=1. The loop will proceed until $i is less than or the same to 3. The variable $i will increment by 1 each time the loop runs.</body>
+                <attachment/>
+            </sublesson>
+            <sublesson>
+                <lid>1003_6</lid>
+                <title>LESSON 3.6 - The While Loop Statement</title>
+                <image>lessons/image_2023-05-09_070632734.png</image>
+                <body>The while statement iterates through a block of a statement as long as the condition specified evaluates to be true.&lt;br&gt;&lt;br&gt; The case above characterizes a loop that begins with $i=1. The loop will proceed to run while $i is less than or the same to 3. The $i will increment by 1 each time the loop runs.</body>
+                <attachment/>
+            </sublesson>
+            <sublesson>
+                <lid>1003_7</lid>
+                <title>LESSON 3.7 - The Do While Loop Statement</title>
+                <image>lessons/image_2023-05-09_070708365.png</image>
+                <body>The do-while loop could be a variation of the while loop, which assesses the condition at the end of each loop cycle. With a do-while loop, the block of code is executed once, and after that, the condition is assessed. If the condition is correct, the statement is repeated as long as the specified condition is assessed to be correct. &#xD;
+&lt;br&gt;&lt;br&gt;&lt;i&gt;The example defines a loop that begins at $i=1. It will then increment $i with 1, and display the output. Then the condition is assessed, then the loop will continue to run as long as $i is less than or can equal to 3. &lt;/i&gt;&#xD;
+&#xD;
+&lt;br&gt;&lt;br&gt;&lt;b&gt;(The Difference of both while and do while Loop)&lt;/b&gt; &#xD;
+&lt;br&gt;- The while loop is different from the do-while loop in one specific reason; in a while loop, the condition to be assessed is tested at the start of each loop iteration, so if the conditional expression is assessed to be false, the loop will never be executed.&#xD;
+&lt;br&gt;However, in a do-while loop, the loop will be executed once, even if the conditional expression is false because the condition is assessed at the end of the loop iteration instead of from the start. "Do while loop will continue to execute the code once, then it will assess the condition and repeat the loop while the indicated condition is correct."</body>
+                <attachment/>
+            </sublesson>
+            <sublesson>
+                <lid>1003_8</lid>
+                <title>LESSON 3.8 - The Foreach Loop Statement</title>
+                <image>lessons/image_2023-05-09_070833204.png</image>
+                <body>The foreach loop is utilized to iterate over objects or arrays. &lt;br&gt;&lt;br&gt; The example above demonstrates a loop that will print the values of the given array. Example: Output: The example above shows a foreach loop that iterates on a key-value pair of the array $colors.</body>
+                <attachment/>
+            </sublesson>
+        </lesson>
+        <lesson>
+            <lid>1004</lid>
+            <title>LESSON 4 - MANIPULATING PHP STRINGS AND ARRAYS</title>
+            <image/>
+            <body>OBJECTIVES: At the end of the lesson, students shall be able to: - Define what PHP strings and arrays are; - Describe the structure of strings and the different arrays; - Demonstrate the use of strings and arrays; - Differentiate the core values of strings and arrays; and - Develop a program that uses both strings and arrays.</body>
+            <attachment/>
+            <sublesson>
+                <lid>1004_1</lid>
+                <title>LESSON 4.1 - Strings in PHP</title>
+                <image>lessons/image_2023-05-09_070943675.png</image>
+                <body>A PHP string may be a sequence of special characters and arithmetic values or a combination of all like letters and numbers. The best way to compose a string is to encase the string exacting (i.e., string characters) in single citation marks ( ' ) like this: &#xD;
+&lt;br&gt; &lt;b&gt;"$string = 'Hellow World;'"&lt;/b&gt;&#xD;
+&lt;br&gt;&lt;br&gt;You can utilize double quotation marks ( " ), be that as it may, single and, double quotation marks work completely in different ways. Strings encased in single-quotes are treated nearly actually. However, the strings delimited by the double quotes replace variables with the string representations of their values (called interpolation) as well as specially interpreting certain escape sequences. The escape sequence utilizes: &#xD;
+&lt;br&gt;- \n is utilized by a newline character &#xD;
+&lt;br&gt;- \r is utilized by the carriage-return character &#xD;
+&lt;br&gt;- \t is utilized by the tab character &#xD;
+&lt;br&gt;- \$ is utilized by the dollar sign itself ( $ ) &#xD;
+&lt;br&gt;- \" is utilized by a single double-quote ( " ) &#xD;
+&lt;br&gt;- \\ is utilized by a single backslash(\) Example:</body>
+                <attachment/>
+            </sublesson>
+            <sublesson>
+                <lid>1004_2</lid>
+                <title>LESSON 4.2 - Strings Methods and Properties</title>
+                <image/>
+                <body>PHP has many built-in functions for controlling strings like calculating the length of a string, discover sub-strings or characters, replacing a portion of a string with diverse characters, take a string separated, and many more. Here are the illustrations of a few of these functions. (Calculating the Length of a String) - The strlen() function utilizes the calculation of the number of characters within a string. It includes the blank spaces inside the string. Example: (Counting Number of Words in a String) - Using the str_word_count() function, it will count the number of words within a string. Example: (Replace a Text inside Strings) - The str_replace() code is used to replace all occurrences of the text searchedwithin the target string.Example: "The str_replace() method is case sensitive, meaning it will replace all occurrences of a direct comparison. In case you need to change a few contents in your string while ignoring case sensitivity, use the str_ireplace() method. Their arguments are the same." (Reversing a String) - The strrev() function reverses a string. Example: (Converting a String to an Array) - The explode() method converts a string to an array. Syntax of explode is:explode(delimiter, string) Example: (Knowing the Position in a String) - The strpos() method returns the position of the string if it is found on the given haystack. Syntax of strpos() is: strpos(haystack, needle) Example:</body>
+                <attachment/>
+            </sublesson>
+            <sublesson>
+                <lid>1004_3</lid>
+                <title>LESSON 4.3 - Arrays in PHP</title>
+                <image/>
+                <body>Arrays in PHP are a kind of data structure that permits to store different elements of distinctive data types beneath a single variable in this manner, saving the exertion of composing a different variable for each data. Arrays are used to create a list of elements of distinctive types, which can be gotten to utilizing their index or key. Assume that we need to store five names and display them in like manner. It could be effortlessly done by the utilize of five different string variables. What if rather than five, the number rises to a hundred? At that point, it would be truly difficult for the user or developer to create multiple distinctive variables. Here, array comes into play and makes a difference to store each element inside a single variable and permits an easy access in utilizing an index or a key. An array is made using an array() function in PHP or by enclosing the values within brackets ( [ ] ). A list of items (a list of color names, for example), storing the colors per variable may look like this: Using an array, it will only look like this: In PHP, there are three classifications of arrays: - Indexed Arrays - An array with a numeric file where values are put away linearly.  - Associative Arrays - An array with a string list where rather than straight storage, each value can be allotted a particular key. - Multi-dimensional Arrays - An Array which contains single or numerous Arrays inside it and can be gotten to using numerous indices. (Indexed Arrays) - An indexed or numeric array stores each array element with a numeric index. "In an indexed array, the indexes are assigned automatically, start with 0, and the values can be of any data type." Example: (Associative Arrays) - In an associative array, the keys allotted to the values can be self-assertive and user-defined strings. Within the following case, the array uses keys rather than index numbers. There are ways to create an associative array: The named keys can be used in code: (Multi-dimensional Arrays) - A multi-dimensional array is an array wherein it contains one or more arrays. PHP supports multi-dimensional arrays that are two or more levels profound. However, arrays more than three levels profound are difficult to oversee for most individuals. "The dimension of an array shows the number of indices you need to choose from an element. For a two-dimensional array, you need two indices to choose from an element. For a three-dimensional array, you need three indices to choose from an element." (Two-dimensional Arrays) - A two-dimensional array is an array with other arrays (while a three-dimensional array is an array with more than two arrays). Take a look at the table below: We can exert the information from the above table in a two-dimensional array. Example: Now the two-dimensional $color array is containing four arrays that have two indices: the row and the column. To take access to the elements of the $color array, we must point to the two indices (row and column). Example: We can also use a foreach loop inside another foreach loop to get the elements of the $color array. Using a foreach loop in an array gives us more advantage to iterate within the contents, even without specifying the indices. Let us use foreach loops to display our contents in an HTML table. Example: Output:</body>
+                <attachment/>
+            </sublesson>
+            <sublesson>
+                <lid>1004_4</lid>
+                <title>LESSON 4.4 - Array Methods and Properties</title>
+                <image/>
+                <body>(Counting Array Elements) - The count() property counts all the elements in an array. Syntax of count() is: count(array) Example: (Converting an Array to a String) - The implode() method converts an array to a string. Syntax of implode() is: implode(glue, pieces) Example: (Shuffling an Array) - The shuffle() method shuffles all the elements in an array. Syntax of shuffle() is: shuffle(array) Example: (Sorting an Array) - The sort() method sorts an array. Syntax of sort() is: sort(array) Example:</body>
+                <attachment/>
+            </sublesson>
+        </lesson>
+        <lesson>
+            <lid>1005</lid>
+            <title>LESSON 5 - USING PRE-DEFINED AND CREATING USER DEFINED FUNCTION</title>
+            <image/>
+            <body>OBJECTIVES: At the end of the lesson, students shall be able to: - Define PHP function; - State the importance of functions; - Describe the use of different PHP built-in functions; - Use the core PHP functions; and - Develop and call user-defined functions</body>
+            <attachment/>
+            <sublesson>
+                <lid>1005_1</lid>
+                <title>LESSON 5.1 - What are the Functions?</title>
+                <image/>
+                <body>A PHP function is a self-contained block of code that is used to perform a specific task. It has a huge collection of built-in functions that you can call directly within your PHP scripts to execute a specific task, like the date(), print_r(), mktime(), var_dump, and many more. When it comes to built-in functions, PHP also allows the programmers to define their PHP functions. It could be a way to make reusable code bundles that perform various tasks and can be stored and maintained separately by the main program."A function must begin with a letter or maybe an underscore. Function names are NOT that case-sensitive."</body>
+                <attachment/>
+            </sublesson>
+            <sublesson>
+                <lid>1005_2</lid>
+                <title>LESSON 5.2 - Date and Time Functions</title>
+                <image/>
+                <body>(The Date() Function) - The PHP date() function creates a timestamp to a more lucid date and time outputs. PHP Language structure of date() is: date(format, timestamp) "A timestamp is a grouping of characters, signifying the date and time at which a certain occasion happened." (Getting a Date) - The desired parameter of the date() function indicates how to arrange the date or time. Here are a few characters that are commonly utilized for dates: -  d - is used for the day of the month (01 to 31) -  m - is used for a month (01 to 12) -  Y - is used for a year (in four digits) -  l (lowercase 'L') - is used for the day of the week There are other characters like"/", ".", or "-" it can be embedded between the characters to include extra formatting. Example: (Getting the Time) - Here are a few characters that are commonly utilized for times: -  H - represents the 24-hour format of an hour (it's from 00 to 23)  -  h - represents the 12-hour format of an hour ( from 01 to 12)  -  i - represents minutes with driving zeros (00 to 59)  -  s - represents seconds with driving zeros (00 to 59)  -  a - Lowercase a represents ante meridiem and post meridiem (am or pm) Example: "PHP function for the date() will return from the current date and time of the server!" (Setting A Time Zone) - On the off chance that the time you got back from the code is not correct, it's probably since your server is in another nation or set up for a diverse time zone. If you would like the time to rectify concurring to a particular area, you'll set the time zone you need to utilize. Example: (Create A Date Using mktime() function) The timestamp parameter within the date() function indicates a timestamp. In case overlooked, the current date and time will be utilized (as within the examples). The PHP mktime() returns the Unix timestamp for a date. The Unix timestamp encompasses the number of seconds between the Unix Age (January 1, 1970, 00:00:00 GMT) and the time indicated. The language structure of mktime() is: mktime(hour, minute, second, month, day, year) Example:</body>
+                <attachment/>
+            </sublesson>
+            <sublesson>
+                <lid>1005_3</lid>
+                <title>LESSON 5.3 - Include and Require Functions</title>
+                <image/>
+                <body>PHP permits us to form different functions and different elements that are utilized by numerous times on different pages. Scripting the same function in different pages could be an errand of incredible exertion and would devour time. It could be kept a strategic distance from if we take after and use the concept of file inclusion, which makes a difference to include various files, including text and codes, into a single file that saves the effort of composing the total function or code multiple times. It also gives another advantage. If we need to alter any code at that point rather than altering it in all the files, we just have to be compelled to edit the source record, and all codes will be consequently changed. PHP has two ways which help us to include files: - function include() - will only produce a warning (E_WARNING), and the script will continue. - function require() - will produce a fatal error (E_COMPILE_ERROR) and stop the script. The basic language structure of the include() and require() statements can be given with: "Just like print and echo statements, you can exclude the parentheses while utilizing the include and require functions." (The include() Function) - This function is utilized to duplicate all the data of a record called within the function, content shrewd into a file from which it is called. It happens before the server executes the block of code. The following illustration will illustrate how to include the common header, footer, and menu codes, which are put away in separate 'header.php,' 'footer.php,' and 'menu.php' files individually, within all the pages of your site. Utilizing this strategy, you'll be able to update all pages of the site at once by doing the changes to just a sole file, this saves a lot of monotonous work. (Comparing include() function and require() function) - You may be guessing if we can include files using the include() function and why we should need to use the require() function. Typically the require() function operates just like the include(). The only distinction is, the include() function will only produce a PHP warning but permit script execution to proceed if the file to be included is not found. At the same time, the require() function will create a fatal error and stops the script execution. "It is suggested to use the require() function if you're including the library files or files containing the functions and configuration variables that are fundamental for running your application, such as database setup file." (Using include_once() and require_once()) - In case you inadvertently include the same file more than one time within your code using the include or require functions, it may cause crashes. To avoid this circumstance, PHP gives include_once and require_once statements. These statements carry on within the same way as to include and require functions with one exception. The include_once and require_once statements will only include the file once even if inquired about including it a second time, in case the required file has already been included in a previous statement, the file isn't included once more. To way better get it how it works, let's check out an illustration. Assume we have a file named my_functions.php with the following code: Here is the PHP script within which we've included the 'my_functions.php' file: When you try to run the above sample script, you will see an error message saying: "Fatal error: Cannot redeclare multiplySelf()." It happens due to the 'my_functions.php' included twice. It means the function multiplySelf() is defined twice, which caused the PHP to stop the script execution and then generate a fatal error. You can rewrite the above example with the use of require_once.As in the figures shown, by using require_once rather than require, the script works as expected.</body>
+                <attachment/>
+            </sublesson>
+            <sublesson>
+                <lid>1005_4</lid>
+                <title>LESSON 5.4 - Creating and Calling User-defined Functions</title>
+                <image/>
+                <body>Other than built-in PHP functions, it's possible to create your functions. - A PHP function is a block or piece of statements that can be used multiple times in a program. - A PHP function does not execute systematically when a page loads. - A PHP function will be executed by calling it. (Creating a User-defined Function) - In declaring a PHP user-defined function the declaration must begin with the word function. Language Structure of a function is: "Always remember that a PHP function name must begin with a letter or an underscore. PHP Function names are NOT that case-sensitive." In the given example below, we compose a function named "writeMsg()". The opening brachet( { ) specifies the start of the function code, and the closing brachet ( } ) specifies the ending of the function. The function displays "Hello world!" To call a function, just simply write its function name followed by parentheses(()). PHP functions are not that much different from other programming languages. A function is a piece or block of code that takes one or more input in the form of a parameter and makes some processing and then returns a value. There are two partitions which must be clear to you: - Creating a Function - It is very helpful to make your PHP function. Assume that you need a PHP function that can write a simple message on the browser after you call it. The following example defines the writeMsg() function and calls it after its creation. - Calling a Function - In reality, you hardly got to create your PHP function since there are now more than 1000 built-in library functions created for a diverse range, and you just have to call them according to what you want. "Give your function a name that represents what the function does!" (Functions with Arguments) - In PHP, an argument is like a variable. All the information can be passed to a function using these so-called Arguments. Arguments are indicated after the function name inside the open and close parentheses. You can add many arguments as many as you need but remember to separate them with a comma. Example: The example above has a function with one argument ($fruits). When the color() function is called, it passes along a fruit (e.g., Apple), and the $fruits variable is used inside the function, which outputs several different fruits, but the same color. Example: This next example has a function with two arguments ($fruits and $price). (PHP Function Return Values) - The return statement permits a function to return a value to its caller. To create functions with return values, add the return statement at your function. "Once your function encountered the return statement, any code or script below the return statement will no longer be executed. Position your return statement wisely in your scripts." Example: PHP also supports Type Declarations for the return statement. Same with type declaration in function arguments, by enabling the strict requirement, it will display a "Fatal Error" on a type mismatch. To declare a type for return function, remember to add a colon ( : ) and the type right before the opening brace ( { ) when declaring function. Example: The example above specifies the return type (float) for the function addition(). In the next example, we could set its return type to a different one. Example:</body>
+                <attachment/>
+            </sublesson>
+        </lesson>
+        <lesson>
+            <lid>1006</lid>
+            <title>LESSON 6 - DEALING WITH FORMS USING SUPERGLOBALS</title>
+            <image/>
+            <body>OBJECTIVES: At the end of the lesson, students shall be able to: - Define how to deal with forms; - State the use of superglobals; - Describe forms using superglobals; - Differentiate the GET and POST methods; and - Developforms withfile uploading.</body>
+            <attachment/>
+            <sublesson>
+                <lid>1006_1</lid>
+                <title>LESSON 6.1 - PHP Form Handling</title>
+                <image/>
+                <body>In developing a dynamic website or a web application, frequently, we have to create a form to get inputs from the users, like from a Login form or maybe a Contact form. Creating a form on the webpage is done by using HTML, while PHP serves as a transport for some values from the webpage up to the server and processing those values. PHP has two superglobals, $_POST, and $_GET, for collecting form-data for processing.</body>
+                <attachment/>
+            </sublesson>
+            <sublesson>
+                <lid>1006_2</lid>
+                <title>LESSON 6.2 - The GET and POST Methods</title>
+                <image/>
+                <body>Let's compose a basic HTML form and try to understand how it functions, and to define what are the different attributes of the form tag and what are they utilized for. Example: In the coding above, we have used this tag form to create an HTML form, with the text fields for Name and Email together with the submit button to submit the form-data. Using the action attribute, we can indicate the name of the file, which will collect and handle the form-data. In the example above, we provided a PHP file named form-handler.php. The method attribute indicates the means of sending the form-data, whether it will be submitted thru a POST method or a GET method. In the next example, we have a similar form with a method as GET. Example: "If you want to use the GET method, you may not declare the method attribute in a form since GET is the default method of sending the form-data." (PHP Form Handling using POST) - If we specify the form using the POST method, then the form-data is sent to the server using the HTTP POST method. The figure below has the code to access the form-data in the Php file specified in the action attribute of our HTML form. Example: (PHP Form Handling using GET) - If we specify the form using the GET method, then the form-data is sent to the server using the HTTP GET method. The succeeding figure has the code to access the form-data in a PHP file stated in the action attribute of the HTML form. This time we used the $_GET superglobal variable. Example: (GET vs. POST) - GET and POST are used for a similar purpose, but they work differently. If a user submits a form, the values entered from the text fields are stored in an array and goes on to the destination (PHP file) stated in the action attribute of the form tag. In the GET method, form-data is passed as URL parameters. To be specific, all the values input within the form areas by the user are sent to the action script, then passed within the URL. Example: There are two input fields in the above form, one is the name, and the other one is age. Once the submit is click, it will be redirected going to the URL, form-handler.php?name=Studytonight&amp;age=5, with the form-data within the URL. Send the form-data as URL parameters prove out valuable at times as you'll be able to effortlessly bookmark links with form-data, but for appending parameters in a URL, a restrain of 2000 characters only is allowed, hence for forms with a large number of fields, it isn't recommended, as some information might get misplaced or the form submission may lead to an error. The PHP file must look like the figure below: As the form-data is obvious to everyone since it is sent as URL parameters, consequently we should not utilize the GET method to a form with sensitive data, like passwords. When using the POST method, the array of key-value pairs (the form-data) coming from the HTML form is sent as a portion of the HTTP request. Subsequently, they are undetectable to the user. Moreover, there's no character constrain for the data being transmitted. POST method also supports multiple form-data transfers, which are utilized for file upload. It is recommended that you use the POST method while working on any PHP web application/project. Example: The PHP file form-handler.php will look like:</body>
+                <attachment/>
+            </sublesson>
+            <sublesson>
+                <lid>1006_3</lid>
+                <title>LESSON 6.3 - PHP File Upload</title>
+                <image/>
+                <body>A PHP script can be used within an HTML form to permit the users to upload the files up to the server. At first, files are transferred into a temporary directory and, after that, moved to a target destination by a PHP script. Information on the phpinfo.php page describes the temporary directory that is used for file uploads as upload_tmp_dir, and the maximum permitted size of files that can be uploaded is stated as upload_max_filesize. These parameters are set into the PHP configuration file php.ini The method of uploading a file takes after these steps: - The user opens the page that contains an HTML form with content files, a browse button, and a submit button. - The user chooses a file to be uploaded from the local PC after clicking the browse button. - The full way to the chosen file shows up within the text filed at that point, and the user clicks the submit button. - The file uploaded is sent to the temporary directory on the server. - The PHP script that was indicated as the form handler within the form's action attribute checks that the file has arrived and, after that, duplicates the file into an intended directory. - The PHP script affirms the victory to the user. As normal when creating files, it is vital for both brief and last locations to have authorizations set that enables a file writing. If either is set to be read-only at that point process will fail. An uploaded file might be a text file or img src file or any type of document. (Creating an Upload Form) - The following HTML code underneath creates an uploader form. This form has a method attribute put to post, and the enctype attribute is putto multipart form-data. Example: Output: (Creating Upload Script) - There's one global PHP variable called the $_FILES. This variable is an associate double dimensional array and keeps all the data related to uploaded files. In case the value assigned to the input's name attribute in the uploading form was a file, at that point, PHP make take after the five variables: - $_FILES['file']['tmp_name'] - represents the uploaded file in the temporary directory on the web server. - $_FILES['file']['name'] - represents the actual name of the uploaded file. - $_FILES['file']['size'] - represents the size in bytes of the uploaded file. - $_FILES['file']['type'] - represents the MIME type of the uploaded file. - $_FILES['file']['error'] - represents the error code associated with the file upload. Example: Output: </body>
+                <attachment/>
+            </sublesson>
+            <sublesson>
+                <lid>1006_4</lid>
+                <title>LESSON 6.4 - PHP Cookies and Sessions</title>
+                <image/>
+                <body>(Cookies in PHP) - Cookies are text or content files put away on the client computer, and they are kept to utilize tracking purposes. PHP straightforwardly supports HTTP cookies. There are three steps included in distinguishing returning users: - Server codes send cookies to the browser&#x2014;for example, a name, an age, or an identification number. - The browser saves data on a local machine for future purposes. - At the moment, the browser sends a request again to a web server, it sends cookies data to the server, and the server utilizes the data to identify the user. (Setting your Cookies with PHP) - PHP has what you called the setcookie(). Its function is to set a cookie and allows up to six arguments and can be called before the html tag. For every cookie, this function has to be called individually. PHP Language Structure of the setcookie() is setcookie(name, value, expire, path, domain, security); Details of the Six Arguments: - Name - This argument sets the name of the cookie, and it is placed or saved in an environment variable called HTTP_COOKIE_VARS. This argument is used for accessing cookies. - Value - This argument will set the value of the named variable and the content that you prefer to store. - Expiry - This implies a future time in seconds since 00:00:00 GMT on 1st Jan 1970. After this time, the cookie will become inaccessible. In case this parameter is not set, then the cookie will systematically expire after the Web Browser is closed. - Path - This specifies the directories in which the cookies are valid. A single forward slash character allows the cookie to be valid for all directories. - Domain - This could be used to indicate the name of the domain in very large domains and must have at least two periods to make it valid. All cookies will only be valid for the host and domain, which created them. - Security - This argument can be set to 1 to specify that the cookie may only be sent by secure transmission using HTTPS or else set to 0, which means the cookie can be sent by regular HTTP. Example: The example has created two cookies, name and age, that will expire after an hour. (Sessions in PHP) - The alternative way to make data more accessible across the various pages of an entire website is by using a PHP Session. A session creates a file in its temporary directory on the server wherein registered session variables and their respective values are stored. During that visit, all the data will be available to all pages on the website. The location of the temporary file is specified by a setting within the php.ini file, which is called session.save_path. Before utilizing any session variable, make sure you have finished setting up this path. When a session begins, the following things occur: - PHP will create first a unique identifier for that particular session that is a random string of 32 hexadecimal numbers like 3c7foj34c3jj973hjkop2fc937e3443. - A cookie is called PHPSESSID is systematically be sent to the user's computer to store up unique sessions for identification string. - Then a file is systematically created on the server in its designated temporary directory and gets the name of that unique identifier prefixed by sess_ ie sess_3c7foj34c3jj973hjkop2fc937e3443. Once a PHP script is needing a retrieve to value from a session variable, PHP systematically takes the distinctive session identifier string from the PHPSESSID cookie and then search in its temporary directory for the file getting that name. Validation will be done by relating the values. A session will end once the user leaves the site; the server will automatically terminate the session after some time. Commonly 30 minutes is the duration. (Start a PHP Session) - A PHP session is effortlessly begun by making a call to the session_start() function. This function begins checking if a session is already begun, and in case none is started at that point, it begins one. It is suggested to put the call to session_start() at the start of the page. The session is put away in an associative array called $_SESSION[]. These variables have been accessed during the lifetime of a session. Look at the example below. It begins a session then registers a variable called counter, which is incremented every time the page is visited during the whole session. Make use of the isset() function to check the session if the session variable is set or not. Input this code in a test.php file and reload this file multiple times to see the result; Example: Output:</body>
+                <attachment/>
+            </sublesson>
+            <sublesson>
+                <lid>1006_5</lid>
+                <title>LESSON 6.5 - PHP Redirect</title>
+                <image/>
+                <body>(How to Make a Redirect in PHP?) - You can easily use the PHP function header() to redirect a user to another page. The PHP code in the next examples will redirect the user from the page that the URL http://www.example.com/another-page.php is placed. You may also apply relative URLs. To send users from the old page going to a newly updated page permanently, then mention the HTTP response code in the header() function, as illustrates in the following example so that the search engines transfer "page rank" from the old page to the newly updated page. In case the status code is not indicated explicitly, for some instances, the header("Location: URL") defaults to 302 (Found). For temporary redirect, you can use the HTTP status code 307.</body>
+                <attachment/>
+            </sublesson>
+        </lesson>
+        <lesson>
+            <lid>1007</lid>
+            <title>LESSON 7 - OOP IN PHP</title>
+            <image/>
+            <body>OBJECTIVES: At the end of the lesson, students shall be able to: - Define OOP; - Memorize the concepts of OOP; - Describe the components of OOP; and - Use the core principles of OOP.</body>
+            <attachment/>
+            <sublesson>
+                <lid>1007_1</lid>
+                <title>LESSON 7.1 - OOP Concepts</title>
+                <image/>
+                <body>The OOP stands for Object-Oriented Programming. Object-Oriented is an approach to software development that models applications around real-world objects such as cars, fruits, students, and more. A class is the properties of a real-world object. An object is an occurrence or instance of a class. Three basic elements/components of object orientation: - Object-oriented analysis - functionality of the system - Object-oriented designing - the architecture of the system - Object-oriented programming - implementation of the application Procedural programming is something about writing and composing procedures or functions that perform various operations on the data. In contrast, object-oriented programming focuses on creating objects that contain both the data and functions. Object-oriented programming has some advantages compared to procedural programming: - Object-oriented programming is way faster and easy to execute. - Object-oriented programming provides a smooth structure for the programs. - Object-oriented programming helps to store the PHP code DRY principle "Don't Repeat Yourself" and makes the code very handy to maintain, modify, and to debug. - Object-oriented programming can make it possible to create full reusable applications with less code in shorter development times. (Class and Objects) - A class in OOP is a template or properties for objects, and an object is an instance or occurrence of a class. Classes and Objects are the main elements in object-oriented programming. Example Table for Class and Objects: (Object-Oriented Programming) - Let's expect we have a class named Fruit. A Fruit can have properties like name and color. We can characterize variables like $name and $color to hold the values of these properties. If the individual objects (Apple, Banana, Mango.) are made, they acquire all the properties from the class, but each object will have distinctive values for the properties. (Classes) - A class is characterized by using the class keyword, followed by the name of the class and a pair of braces ( { } ). All its properties go inside the braces. Example: Below we declare a class named Fruit with its two properties ($name and $color) and two methods, which are the set_name() and the get_name(), for setting and getting the $name property. Example: (Defining Objects) - Classes are nothing without objects! We can create different and multiple objects from a class. Every object has the properties and methods defined by the class, but they might have distinctive property values. Objects of a class are created using the new keyword. In the next example, the $apple and $banana are instances of the class Fruit. Example: On the example below, we put two more methods to the class Fruit, for the setting and getting the $color property. Example:</body>
+                <attachment/>
+            </sublesson>
+            <sublesson>
+                <lid>1007_2</lid>
+                <title>LESSON 7.2 - Principles of OOP</title>
+                <image/>
+                <body>OOP has three major principles. These are encapsulation, inheritance, and polymorphism. (Encapsulation) - Usually concerned with covering up the implementation details and, as it was exposing the methods. The most reason for encapsulation is to: - Reduce the software development complexity - by covering up the implementation details and as it was exposing the operations, using a class becomes very easy. - Protecting the internal state of an object - access to the class variables through methods like the get and set, this makes the class more flexible and easier to maintain. - The internal implementation of the class could be changed without worrying about breaking the code which utilizes the class. Encapsulation is a principle wherein the data is wrapped in a single unit. It is used to make the data or information safe in an object from the other classes. Its main function is for protection purposes. (Inheritance) - Typically, inheritance is concerned with the relationship between classes. The relationship takes the form of a parent and child. The child uses the methods characterized by the parent class. The most reason for inheritance is: - Re-usability - several children can acquire from the same parent. It can be exceptionally valuable when we need to give common functionality, such as including, updating and erasing data from the database. Inheritance takes place in PHP by using the extends keyword after the child class's name. After the extends keyword, provide the class name of the parent class (or the class to be inherited). Example: In OOP, we have different types of access modifiers in a class. These modifiers limit what we could access with and without inheritance. - Public - all methods and properties set to the public are accessible to the world. It means, even without inheritance, simply by instantiating the class, we can access these methods and properties. - Default / No Modifier - there are methods and properties set without a modifier. The level of access for methods and properties without a modifier is only those classes instantiated or inherited within the same package. - Protected - all methods and properties set to be protected are only accessible through inheriting the class with protected methods and properties. It means only the child class (inherits protected methods and properties from the parent class), and the parent class (owns the protected methods and properties) may use the protected methods and properties. - Private - if a method or a property is to private, only the class who owns the method or the property is the only one allowed to use it. (Polymorphism) - Polymorphism is concerned about having a single form but have different implementation ways. The main reason for the polymorphism is: - Simplify keeping up applications and making it more extendable. Polymorphism may be applied using the implements keyword. Files that can be implemented are those that contain abstract methods, which, when implemented, shall have its equivalent concrete method for implementation.</body>
+                <attachment/>
+            </sublesson>
+        </lesson>
+    <lesson><lid>1008</lid><title>adad</title><body>asdasdasd</body></lesson></unit>
+    <unit unitNo="2">
+        <lesson>
+            <lid>1008</lid>
+            <title>LESSON 8 - MANAGING DATABASE AND TABLES</title>
+            <image/>
+            <body>OBJECTIVES: At the end of the lesson, students shall be able to: - Define the uses of PHPMyAdmin and MySQL; - Explain how to use PHPMyAdmin to manage databases; - Use the knowledge learned on how to use PHPMyAdmin; - Distinguish how PHPMyAdmin's features works; and - Develop a database and its tables using PHPMyAdmin</body>
+            <attachment/>
+            <sublesson>
+                <lid>1008_1</lid>
+                <title>LESSON 8.1 - Starting MySQL in XAMPP and the PHPMyAdmin</title>
+                <image/>
+                <body>XAMPP is a PHP development environment used to develop websites. It is the most commonly used by developers because it is easy to install, and it is free. XAMPP's acronym is defined as: - X - Cross-platform (can be used for any operating systems) - A - Apache - M - MySQL - P - PHP - P - Perl PHPMyAdmin is part of the XAMPP installation package that lets web developers handle the administration of MySQL over the web. PHP (recursive acronym for PHP: Hypertext Preprocessor) is a server-side scripting language used to develop dynamic web pages. Most PHP development environment also used this as part of the installation package. MySQL is a common Database Management System (DBMS) used in web development. It is developed, distributed, and supported by the Oracle Corporation. Most of PHP development environment used this as part of the installation package. To start MySQL in XAMPP, XAMPP must be installed first. Installation depends on what Operating System is installed on a device. XAMPP's version 7.0 is used in this unit. "Windows Operating System has two kinds of bit processors, 32-bit and 64-bit. To install XAMPP properly, select an installer based on Operating System's bit processor." After XAMPP is installed, the window of the XAMPP Control Panel will pop up. It contains the list of packaged application, just like in the preceding figure. To start Apache and MySQL, just click the Start button of it on the Actions column. After it starts, its button will change to Stop. It indicates that MySQL is now running and ready to use. "In XAMPP Control Panel, make sure that the application's icon in the Service column changed to a CHECK icon. If not, and it is still the CROSS icon, there something wrong with its installation." Now that both Apache and MySQL are correctly running open any browser and enter either http://localhost/phpmyadmin or http://127.0.0.1/phpmyadmin. The PHPMyAdmin Homepage will load as in the figure shown above. "The default user's login in PHPMyAdmin is &#x201C;root&#x201D; as username and no password. Entering its URL on a browser will automatically redirect a user to its homepage."</body>
+                <attachment/>
+            </sublesson>
+            <sublesson>
+                <lid>1008_2</lid>
+                <title>LESSON 8.2 - Creating Databases and Tables in PHPMyAdmin</title>
+                <image/>
+                <body>HPMyAdmin is a database management tool that makes MySQL more user-friendly. It also provides a page where SQL statements may be used. To start creating a database, access first the PHPMyAdmin's homepage by entering its URL on a browser. Then, from the main menu, choose Databases. In the Create Database field, enter the name of the database and leave the Collation to its default MySQL schema collation. And lastly, click Create. After creating a new database, PHPMyAdmin will redirect to another page. The left side of the page shows the list of databases, including the newly created one, mydatabase. The right portion of the page shows the Create Table field. In this field, enter the name of the table and the number of columns, then click Go. The next page after the Create Table field is the Table Management. This page is where the information of each column is entered. The following are the information that is entered on each column. - Name of column - Type of data that the column will handle. Some common data types include: o INT - Integer (a whole number) o CHAR - Characters (a fixed length) o VARCHAR - Variable Length Characters (a variable length) o TEXT - Used for holding large amounts of text o DATE - Can be used only for dates o DATETIME - Can be used on both date and time  - Length/Values are used optionally. For example, the INT type will be required to specify the maximum number of digits allowed, or a CHAR type will be required to specify the maximum number of characters allowed. - The default is used in a column that needs to have a default value. - Collation is used if a column needs other types of MySQL schema - Null is used to define whether a column can be a NULL value. - The index is used if a column will be the PRIMARY KEY of the table. Or if the column will handle UNIQUE values. - A_I, short for Auto Increment, is defined if the column will handle its values automatically incremented. It is commonly used in data types that handle only numbers. The following figure shows the Table management page. It shows that the new table of mydatabase is mytable. On the upper part of the webpage, below the menu, is a field where the user can add another one or more columns when is needed. If needed to see the full SQL statement used to create the whole table, just click Preview SQL. A popup will show the whole SQL statement. After filling up all the needed fields of the Table Management, just click Save, and the PHPMyAdmin will be redirected to the Database Management. It shows the list of the table of the database. Below the list is the Create Table field if it is in need to create another table for the database.</body>
+                <attachment/>
+            </sublesson>
+            <sublesson>
+                <lid>1008_3</lid>
+                <title>LESSON 8.3 - Inserting, Retrieving, Modifying, and Deleting Records in PHPMyAdmin</title>
+                <image/>
+                <body>(Inserting Records) - In inserting records, a table must be selected first or just select the Insert link on the table's Actions column. The link will redirect to the Insert Record page. Enter the desired data in the corresponding fields and click Go to store it. To see the records inserted to the table, choose the Browse tab on the upper left part of the menu. (Retrieving Records) - In retrieving records from a table, a table must be selected first or just select the Search link on the table's Actions column. The link will be redirected to the Search page. There are three sub-tabs to be used in retrieving records in the Search page; Table Search, Zoom Search, and the Find and Replace tab. Table Search used to filter the records based on the operators and values provided in each column. It retrieves more filtered records. Alternatively, there is a Zoom Search, which is used to explore a table by representing its data in a scatter plot. The last sub-tab, Find and Replace, is used to find a specific character(s)/word(s) in records, together with the selected column, and replace it with a new one. (Modifying Records) - In modify records, a table must be selected first. The link will redirect to the page where the record(s) can be modified. In modifying a single record, just click the Edit link in the Actions column of a record. If multiple records are needed to modify, check the checkboxes of the records in the Actions column, then click the Edit link on the Actions menu below the list of records. Both links will be redirected to the Edit page where the record(s) will be modified. The page contains all the selected record(s) where each field can be modified. Just change the values of the desired fields of the record(s) and click Go to save the record(s). To see the SQL statement to be used to save the record(s), just click the Preview SQL button. To restore the previous values of the record(s), just click the Reset button. (Deleting Records) - In deleting records, a table must be selected first. The link will redirect to the page where the record(s) can be deleted. In deleting a single record, just click the Delete link in the Actions column of a record. If multiple records are needed to be deleted, check the checkboxes of the records in the Actions column then click the Delete link on the Actions menu below the list of records. Confirmations will pop-up for deleting record(s). Choose Yes to delete the record(s) and Cancel if not.</body>
+                <attachment/>
+            </sublesson>
+        </lesson>
+        <lesson>
+            <lid>1009</lid>
+            <title>LESSON 9 - RETRIEVING RECORDS</title>
+            <image/>
+            <body>OBJECTIVES: At the end of the lesson, students shall be able to: - Define the SQL statement used on retrieving records in database's tables; - Describe how to connect PHP and MySQL databases; - Use the PHP extensions to connect database on a webpage; - Examine how PHP extensions work; - Weigh which PHP extensions are better to use; and - Develop a program/web page that will display database' records.</body>
+            <attachment/>
+            <sublesson>
+                <lid>1009_1</lid>
+                <title>LESSON 9.1 - Connecting to a Database in PHP</title>
+                <image/>
+                <body>There are different ways to connect PHP to MySQL; it is either a MySQLi extension or PDO. Both provide Object-Oriented and Procedural. Both also support Prepared Statements. MySQLi extension is a PHP database extension implemented to use in PHP 5.5 or above. It is an extension that only works with MySQL databases. PDO (PHP Data Objects) is a database extension implemented to use for database connections using PHP 5.1 or above. It is an extension that works in any DBMS."PHP 5 and later works with a MySQL database using both MySQLi extension and PDO." "In MySQLi extension, the &#x201C;i&#x201D; stands for improved." The following examples provide both MySQLi extension (Object-Oriented and Procedural) and PDO. Example MySQLi (Object-Oriented): In the example above, the lines 2-4 are the initialization of variables. These variables are used as mysqli function's parameters on line 7, the code used to create the connection between PHP and MySQL. In checking the connection to the MySQL database is successful or not, a condition is constructed in lines 10-13. "The $connect_error was broken until PHP 5.2.9 and 5.3.0. To ensure the compatibility with PHP versions before 5.2.9 and 5.3.0, use the following alternative code above." To close the connection in MySQLi extension (Object-Oriented), $conn-&gt;close(); must be used in the end of the script. Example MySQLi (Procedural): For example, Procedural above, the syntax is almost the same in Object-Oriented. The only difference is the function used to create the connection between PHP and MySQL on line 7 and the structure of syntax on how to check the connection. To close the connection in MySQL extension (Procedural), mysqli_close($conn); must be used at the end of the script. Example PDO: In the example above, the lines 2-5 are the initialization of variables. These variables are used as PDO function's parameters on line 8, the code used to create the connection between PHP and MySQL. In checking the connection to the MySQL database is successful or not, the setAttribute function is used on line 14, followed by a String output using echo on line 15. "The PDO example above specifies a database named mydatabase. PDO requires a valid database to connect with; otherwise, an exception is thrown." "PDO has an exception class to handle any problems that may occur in database queries. In case an exception is thrown within the try{} block, the script stops executing and goes directly to the catch{} block." To close the connection in PDO, $conn = null; must be used at the end of the script.</body>
+                <attachment/>
+            </sublesson>
+            <sublesson>
+                <lid>1009_2</lid>
+                <title>LESSON 9.2 - The SELECT Statement</title>
+                <image/>
+                <body>The SELECT Statement is used to retrieve selected record(s) from one or more tables. The example above shows the basic structure of a SELECT Statement. SELECT identifies the column(s) to be used, and FROM identifies which table the records to be retrieved. The example above shows the introductory SELECT Statement. Consider the name of the database as mydatabase and its table mytable. The SELECT Statement uses (*) to get all the columns (Id, Name, Birthdate, and Gender) of mytable table and retrieve all its records displayed in the figure above. SELECT Statement can also use to indicate specific columns and records of a table. The SELECT Statement indicates Id and Name to retrieve the records of mytable table. It also uses WHERE to filter the records to be retrieved. The statements define that all Ids and Names of records that have values of Id less than or equal to 1 will be retrieved. The output of the statement is displayed just like in the following figure.</body>
+                <attachment/>
+            </sublesson>
+            <sublesson>
+                <lid>1009_3</lid>
+                <title>LESSON 9.3 - Retrieving and Displaying Data Using PHP</title>
+                <image/>
+                <body>In the previous lesson, there are two ways of PHP-MySQL connection, the MySQLi extension and the PDO. To fully understand how these connections are used to retrieve records on a database, the following program examples will retrieve and display the records, just like in the following figure, in a web page using PHP. The example above displays the output of the following three programs example, MySQLi extension (Object-Oriented), MySQLi extension (Procedural), and PDO. The program output in above uses HTML table/table tags to display the records, from mytable table of mydatabase database. It also uses some CSS codes, like the example below. Example MySQLi (Object-Oriented): In the example above, the variables are initialized in lines 2-5. These variables are used in the creation of a database connection, which is the mydatabase, in line 8. The variable $sql on line 13 is initialized to hold the query to be used and puts the resulting data into a variable $result on line 14. The function num_rows() on line 16 checks if there are more than zero rows returned. If there are, the function fetch_assoc() on line 25 will put all the results into an associative array. The while() loop iterates through the result set and outputs the data from the id and Name columns. Example MySQLi (Procedural): The code of MySQL (Procedural) shows the same structure as in MySQL extension (Object-Oriented) but in a MySQLi Procedural way. Example PDO (+ Prepared Statement): The example above shows the PDO connection of PHP-MySQL. It uses the Prepared Statement to secure the displayed records on the web page.</body>
+                <attachment/>
+            </sublesson>
+        </lesson>
+        <lesson>
+            <lid>1010</lid>
+            <title>LESSON 10 - INSERTING RECORDS</title>
+            <image/>
+            <body>OBJECTIVES: At the end of the lesson, students shall be able to: - Define the SQL statement used on inserting new records in database's tables; - Explain how to insert new records in database' table using PHP extensions; - Use the PHP extensions to insert new records; - Differentiate PHP extensions functions in inserting records; and - Design a program/web page that will insert new database' records.</body>
+            <attachment/>
+            <sublesson>
+                <lid>1010_1</lid>
+                <title>LESSON 10.1 - The INSERT INTO Statement</title>
+                <image/>
+                <body>The INSERT INTO Statement inserts new row(s) of data in a table. The code above shows the basic structure of an INSERT INTO Statement. The INSERT INTO identifies the table and columns, and the VALUES identifies values to be inserted in the table. An example is an INSERT INTO Statement. Consider the name of the database as mydatabase and its table mytable. The INSERT INTO Statement inserts two rows of data. It may be done with a comma (,) to separate the parameters/rows of data to be inserted. "If a column is AUTO_INCREMENTED, like the Id column of mytable table, or TIMESTAMP, it is no need to specify in the INSERT INTO Statement; MySQL will automatically add value."</body>
+                <attachment/>
+            </sublesson>
+            <sublesson>
+                <lid>1010_2</lid>
+                <title>LESSON 10.2 - Adding Data in the Database Using PHP</title>
+                <image/>
+                <body>In the previous lesson, there are two ways of PHP-MySQL connection, the MySQLi extension and the PDO. To fully understand how these connections are used to insert new rows of data on a database table, the program examples on the next page will provide the codes. Example MySQLi (Object-Oriented): n the example above, the variables are initialized in lines 2-5. These variables are used in the creation of a database connection, which is the mydatabase, in line 8. The variable $sql on line 13 is initialized to hold the query on line 14. The function query() on line 19 is used to check if the new data are inserted to the mydata table with a condition. If the condition returns as FALSE, it will execute the error() function on line 22.  Example MySQLi (Procedural): The example of MySQL (Procedural) above shows the same structure as in MySQLi extension (Object-Oriented) but in a MySQLi Procedural way. Example PDO: On line 17 of the example above, the function exec() is used because there are no results returned by the program.</body>
+                <attachment/>
+            </sublesson>
+        </lesson>
+        <lesson>
+            <lid>1011</lid>
+            <title>LESSON 11 - MODIFYING AND DELETING RECORDS</title>
+            <image/>
+            <body>OBJECTIVES: At the end of the lesson, students shall be able to: - Define the SQL statements used on modifying and deleting records; - Explain how to modify and delete records in a table using PHP extensions; - Use the PHP extensions to modify and delete records; - Compare PHP extensions functions in modifying and deleting records; and - Design a program/web page that will modify and delete database' records.</body>
+            <attachment/>
+            <sublesson>
+                <lid>1011_1</lid>
+                <title>LESSON 11.1 - The UPDATE Statement</title>
+                <image/>
+                <body>The UPDATE Statement is a DML Statement that modifies existing rows in a table. The syntax above shows the basic structure of an UPDATE Statement. UPDATE identifies the table, and SET identifies the selected columns and its corresponding values to modify. The WHERE clause specifies which records to be modified. "When using the UPDATE statement, the WHERE clause must not be omitted to prevent all the records from being modified." The example above shows the example of an UPDATE Statement. Consider the name of the database as mydatabase and its table mytable. "In case a column is a PRIMARY KEY, it is not advisable to modify its value. It will cause a BIG problem when it comes to a running web system."</body>
+                <attachment/>
+            </sublesson>
+            <sublesson>
+                <lid>1011_2</lid>
+                <title>LESSON 11.2 - Updating Records in the Database Using PHP</title>
+                <image/>
+                <body>In the previous lesson, there are two ways of PHP-MySQL connection, the MySQLi extension and the PDO. To fully understand how these connections are used to modify an existing row of data on a database table, the following program examples will provide the codes. Example MySQLi (Object-Oriented): In the example above, the variables are initialized in lines 2-5. These variables are used in the creation of a database connection, which is the mydatabase, in line 8. The variable $sql on line 13 is initialized to hold the query to be used 14.The function query() on line 14 is used to check if the new rows are inserted to the mydata table with a condition. If the condition returns FALSE, it will execute the error() function on line 17. Example MySQLi (Procedural): The code of MySQLi extension (Procedural) above shows the same structure as in MySQLi extension (Object-Oriented) but in a MySQLi Procedural way. Example PDO: In line 12 of the example above, the function execute() is used to execute the query held by $sql on line 11. "In this lesson, we will not discuss how the server processes the data sent from a form. To know more about how server processes data, see Units 4 and 5."</body>
+                <attachment/>
+            </sublesson>
+            <sublesson>
+                <lid>1011_3</lid>
+                <title>LESSON 11.3 - The DELETE Statement</title>
+                <image/>
+                <body>The DELETE Statement is a DML Statement that removes one or more rows in a table. The syntax above shows the basic structure of a DELETE Statement. DELETE FROM identifies the table, and the WHERE clause specifies which record(s) to be removed. "When using DELETE Statement, the WHERE clause must not be omitted to prevent all the records from being removed." The following figure shows the current rows of a table. With the DELETE Statement above, the row with an Id of 4 will be removed from the table. After applying the example DELETE statement, the following figure is the output.</body>
+                <attachment/>
+            </sublesson>
+            <sublesson>
+                <lid>1011_4</lid>
+                <title>LESSON 11.4 - Deleting Records in the Database Using PHP</title>
+                <image/>
+                <body>In the previous lesson, there are two ways of PHP-MySQL connection, the MySQLi extension and the PDO. To fully understand how these connections are used to remove row(s) of data on a database table, the following program examples will provide the codes. Example MySQLi (Object-Oriented): Example MySQLi (Procedural): Example PDO: In the example of MySQLi extension (Object-Oriented), the variables are initialized in lines 2-5. These variables are used in the creation of a database connection, which is the mydatabase, in line 8. The variable $sql on line 13 is initialized to hold the query to be used 14. The function query() on line 14 is used to check if the new rows of data are inserted to mydata table with the use of a condition. If the condition returns FALSE, it will execute the error() function on line 17. The code example of MySQL (Procedural) shows the same structure as in MySQLi extension (Object-Oriented) but in a MySQLi Procedural way. On line 13 of the PDO example, the function exec() is used because there are no results to be displayed.</body>
+                <attachment/>
+            </sublesson>
+        </lesson>
+    </unit>
+</lessons>

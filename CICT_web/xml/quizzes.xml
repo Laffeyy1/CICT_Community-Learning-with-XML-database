@@ -1,0 +1,1362 @@
+<quizzes>
+    <!-- UNIT 4 -->
+    <quiz quizNo="1"> <!-- LESSON 1 -->
+        <item itemNo="1">
+            <question>What is the acronym for Hypertext Preprocessor?</question>
+            <choice1>A. HP</choice1>
+            <choice2>B. HTP</choice2>
+            <choice3>C. PHP</choice3>
+            <choice4>D. HTPP</choice4>
+            <answer>C. PHP</answer>
+        </item>
+        <item itemNo="2">
+            <question>What do you call a PHP file without any HTML tags?</question>
+            <choice1>A. solid PHP file </choice1>
+            <choice2>B. true PHP file</choice2>
+            <choice3>C. just PHP file</choice3>
+            <choice4>D. pure PHP file</choice4>
+            <answer>D. pure PHP file</answer>
+        </item>
+         <item itemNo="3">
+            <question>What do you call a scripting language that develops websites known to create dynamic pages?</question>
+            <choice1>A. PHP</choice1>
+            <choice2>B. Python</choice2>
+            <choice3>C. Javascript</choice3>
+            <choice4>D. None of the above</choice4>
+            <answer>A. PHP</answer>
+        </item>
+         <item itemNo="4">
+            <question>What is the meaning of X in XAMPP?</question>
+            <choice1>A. Cross-Platform</choice1>
+            <choice2>B. Extensible</choice2>
+            <choice3>C. XML</choice3>
+            <choice4>D. Exclusive</choice4>
+            <answer>C. Cross-Platform</answer>
+        </item>
+         <item itemNo="5">
+            <question>What is the meaning of A in XAMPP?</question>
+            <choice1>A. Array</choice1>
+            <choice2>B. Apache</choice2>
+            <choice3>C. Activity</choice3>
+            <choice4>D. Application</choice4>
+            <answer>B. Apache</answer>
+        </item>
+         <item itemNo="6">
+            <question>What is the meaning of M in XAMPP?</question>
+            <choice1>A. Markup</choice1>
+            <choice2>B. Mercury</choice2>
+            <choice3>C. MySQL</choice3>
+            <choice4>D. Module</choice4>
+            <answer>C. MySQL</answer>
+        </item>
+         <item itemNo="7">
+            <question>What is the meaning of the first P in XAMPP?</question>
+            <choice1>A. Powershell</choice1>
+            <choice2>B. Perl</choice2>
+            <choice3>C. Python</choice3>
+            <choice4>D. PHP</choice4>
+            <answer>D. PHP</answer>
+        </item>
+         <item itemNo="8">
+            <question>What is the meaning of the second P in XAMPP?</question>
+            <choice1>A. Powershell</choice1>
+            <choice2>B. Perl</choice2>
+            <choice3>C. Python</choice3>
+            <choice4>D. PHP</choice4>
+            <answer>B. Perl</answer>
+        </item>
+         <item itemNo="9">
+            <question>What is the filename folder that contains all files that may be executed in a browser using the services of XAMPP?</question>
+            <choice1>A. xampp</choice1>
+            <choice2>B. web1</choice2>
+            <choice3>C. htdocs</choice3>
+            <choice4>D. index</choice4>
+            <answer>A. xampp</answer>
+        </item>
+         <item itemNo="10">
+            <question>Does a PHP file cannot have tags such as HTML and client-side scripts like JavaScript?</question>
+            <choice1>A. True</choice1>
+            <choice2>B. False</choice2>
+            <choice3>C. Both A &amp; B</choice3>
+            <choice4>D. None of the above</choice4>
+            <answer>B. False</answer>
+        </item>
+         <item itemNo="11">
+            <question>What file extension name that you need to use in order to save a PHP file?</question>
+            <choice1>A. ".js"</choice1>
+            <choice2>B. ".php"</choice2>
+            <choice3>C. ".html"</choice3>
+            <choice4>D. ".exe"</choice4>
+            <answer>B. ".php"</answer>
+        </item>
+         <item itemNo="12">
+            <question>XAMPP consists of the following choices below, except one. Choose an odd one out</question>
+            <choice1>A. MySQL</choice1>
+            <choice2>B. Perl</choice2>
+            <choice3>C. Apache</choice3>
+            <choice4>D. Python</choice4>
+            <answer>D. Python</answer>
+        </item>
+         <item itemNo="13">
+            <question>What can you use in order to access the contents of the htdocs folder through the browser?</question>
+            <choice1>A. local user</choice1>
+            <choice2>B. local folder</choice2>
+            <choice3>C. local file</choice3>
+            <choice4>D. None of the above</choice4>
+            <answer>D. None of the above</answer>
+        </item>
+         <item itemNo="14">
+            <question>What is the meaning of the URL?</question>
+            <choice1>A. Uniform Resource Locator</choice1>
+            <choice2>B. Uniform Resource Location</choice2>
+            <choice3>C. Uniform Relocator Link</choice3>
+            <choice4>D. Uniform Resource Link</choice4>
+            <answer>A. Uniform Resource Locator</answer>
+        </item>
+         <item itemNo="15">
+            <question>What extension name that index files may be saved?</question>
+            <choice1>A. ".php"</choice1>
+            <choice2>B. Both A &amp; C</choice2>
+            <choice3>C. ".html"</choice3>
+            <choice4>D. None of the above</choice4>
+            <answer>B. Both A &amp; C</answer>
+        </item>
+    </quiz>
+    <quiz quizNo="2"> <!-- LESSON 2 -->
+        <item itemNo="16">
+            <question>What are the opening and closing tags that PHP uses?</question>
+            <choice1>A. php and ?</choice1> <!-- <php and ?> -->
+            <choice2>B. ?php and </choice2> <!-- <?php and > -->
+            <choice3>C. ?php and ?</choice3> <!-- <?php and ?> -->
+            <choice4>D. ?php and /</choice4> <!-- <?php and /> -->
+            <answer>C. ?php and ?</answer>
+        </item>
+        <item itemNo="17">
+            <question>What are the ways of commenting in PHP?</question>
+            <choice1>A. "//,*,/**/" </choice1>
+            <choice2>B. "!--" </choice2>
+            <choice3>C.  "//,/,/**/" </choice3>
+            <choice4>D. "//,#,/**/" </choice4>
+            <answer>D. "//,#,/**/" </answer>
+        </item>
+        <item itemNo="18">
+            <question>What is a PHP Variable starting with?</question>
+            <choice1>A. "_"</choice1>
+            <choice2>B. "&amp;" </choice2>
+            <choice3>C. "?" </choice3>
+            <choice4>D. "$" </choice4>
+            <answer>D. "$" </answer>
+        </item>
+        <item itemNo="19">
+            <question>What is the function used in creating a constant?</question>
+            <choice1>A. define()</choice1>
+            <choice2>B. echo()</choice2>
+            <choice3>C. function()</choice3>
+            <choice4>D. print()</choice4>
+            <answer>A. define()</answer>
+        </item>
+        <item itemNo="20">
+            <question>What are the things utilized to perform various operations on variables and values?</question>
+            <choice1>A. Delimiters</choice1>
+            <choice2>B. Superglobal</choice2>
+            <choice3>C. Constant</choice3>
+            <choice4>D. Operators</choice4>
+            <answer>D. Operators</answer>
+        </item>
+        <item itemNo="21">
+            <question>PHP partitions the operators within the following, except one. Choose the odd one out.</question>
+            <choice1>A. Assignment Operators</choice1>
+            <choice2>B. Constant Operators</choice2>
+            <choice3>C. Arithmetic Operators</choice3>
+            <choice4>D. Comparison Operators</choice4>
+            <answer>B. Constant Operators</answer>
+        </item>
+        <item itemNo="22">
+            <question>What kind of operators are utilized with numeric values to perform various arithmetic operations, like addition, subtraction, etc.?</question>
+            <choice1>A. Arithmetic</choice1>
+            <choice2>B. Assignment</choice2>
+            <choice3>C. Mathematic</choice3>
+            <choice4>D. Numeric</choice4>
+            <answer>A. Arithmetic</answer>
+        </item>
+        <item itemNo="23">
+            <question>What does this kind of operator "!==" called?</question>
+            <choice1>A. equal</choice1>
+            <choice2>B. not equal</choice2>
+            <choice3>C. identical</choice3>
+            <choice4>D. not identical</choice4>
+            <answer>D. not identical</answer>
+        </item>
+        <item itemNo="24">
+            <question>What does this kind of operator "===" called?</question>
+            <choice1>A. equal</choice1>
+            <choice2>B. not equal</choice2>
+            <choice3>C. identical</choice3>
+            <choice4>D. not identical</choice4>
+            <answer>C. identical</answer>
+        </item>
+        <item itemNo="25">
+            <question>What does this kind of operator "!=" called?</question>
+            <choice1>A. equal</choice1>
+            <choice2>B. not equal</choice2>
+            <choice3>C. identical</choice3>
+            <choice4>D. not identical</choice4>
+            <answer>B. not equal</answer>
+        </item>
+        <item itemNo="26">
+            <question>What does this kind of operator "==" called?</question>
+            <choice1>A. equal</choice1>
+            <choice2>B. not equal</choice2>
+            <choice3>C. identical</choice3>
+            <choice4>D. not identical</choice4>
+            <answer>A. equal</answer>
+        </item>
+        <item itemNo="27">
+            <question>What Logical operator to use when the result is TRUE if both $y and $z are TRUE?</question>
+            <choice1>A. $y &amp;&amp; $z</choice1>
+            <choice2>B. $y or $z</choice2>
+            <choice3>C. $y xor $z</choice3>
+            <choice4>D. $y || $z</choice4>
+            <answer>A. $y &amp;&amp; $z</answer> 
+        </item>
+        <item itemNo="28">
+            <question>What Logical operator to use when the result is TRUE if either $y or $z is TRUE?</question>
+            <choice1>A. $y &amp;&amp; $z</choice1>
+            <choice2>B. $y or $z</choice2>
+            <choice3>C. $y xor $z</choice3>
+            <choice4>D. $y || $z</choice4>
+            <answer>B. $y or $z</answer>
+        </item>
+        <item itemNo="29">
+            <question>What Logical operator to use when the result is TRUE if $y is not TRUE?</question>
+            <choice1>A. $y &amp;&amp; $z</choice1>
+            <choice2>B. $y or $z</choice2>
+            <choice3>C. $y xor $z</choice3>
+            <choice4>D. $y || $z</choice4>
+            <answer>D. $y || $z</answer>
+        </item>
+        <item itemNo="30">
+            <question>What Logical operator to use when the result is TRUE if either $y or $z is TRUE, but not both.?</question>
+            <choice1>A. $y &amp;&amp; $z</choice1>
+            <choice2>B. $y or $z</choice2>
+            <choice3>C. $y xor $z</choice3>
+            <choice4>D. $y || $z</choice4>
+            <answer>C. $y xor $z</answer>
+        </item>
+    </quiz>
+    <quiz quizNo="3"> <!-- LESSON 3 -->
+        <item itemNo="31">
+            <question>Below are the conditional statements in PHP that you can use to make decisions except one</question>
+            <choice1>A. if statement</choice1> 
+            <choice2>B. if...else statement</choice2> 
+            <choice3>C. switch case statement</choice3> 
+            <choice4>D. do-while</choice4> 
+            <answer>D. do-while</answer>
+        </item>
+        <item itemNo="32">
+            <question>Which one is not a Loop statement?</question>
+            <choice1>A. while</choice1>
+            <choice2>B. switch case</choice2>
+            <choice3>C. foreach</choice3>
+            <choice4>D. do-while</choice4>
+            <answer>B. switch case</answer>
+        </item>
+         <item itemNo="33">
+            <question>Which of the following is the variant of the while loop?</question>
+            <choice1>A. while</choice1>
+            <choice2>B. for</choice2>
+            <choice3>C. foreach</choice3>
+            <choice4>D. do-while</choice4>
+            <answer>D. do-while</answer>
+        </item>
+         <item itemNo="34">
+            <question>The _________ is a conditional statement that lets you execute a piece of code if the specified condition is evaluating to true and another piece of code if it is evaluating to false</question>
+            <choice1>A. if statement</choice1>
+            <choice2>B. if...else statement</choice2>
+            <choice3>C. switch case statement</choice3>
+            <choice4>D. If…elseif…else statement</choice4>
+            <answer>B. if...else statement</answer>
+        </item>
+         <item itemNo="35">
+            <question>The ____ statement is utilized to execute a piece of code only if the specified condition is assessed to be correct.</question>
+            <choice1>A. if statement</choice1>
+            <choice2>B. if...else statement</choice2>
+            <choice3>C. switch case statement</choice3>
+            <choice4>D. If…elseif…else statement</choice4>
+            <answer>A. if statement</answer>
+        </item>
+         <item itemNo="36">
+            <question> _______ loops through a piece of code for each element in an array.</question>
+            <choice1>A. Foreach</choice1>
+            <choice2>B. For</choice2>
+            <choice3>C. Do While</choice3>
+            <choice4>D. While</choice4>
+            <answer>A. Foreach</answer>
+        </item>
+         <item itemNo="37">
+            <question>The _______ repeats the piece of code as long as a particular condition is reached</question>
+            <choice1>A. While loop</choice1>
+            <choice2>B. Do while loop</choice2>
+            <choice3>C. For loop</choice3>
+            <choice4>D. Switch</choice4>
+            <answer>C. For loop</answer>
+        </item>
+         <item itemNo="38">
+            <question>The ________ iterates through a block of a statement as long as the condition specified evaluates to be true</question>
+            <choice1>A. While loop</choice1>
+            <choice2>B. Do while loop</choice2>
+            <choice3>C. For loop</choice3>
+            <choice4>D. Switch</choice4>
+            <answer>A. While loop</answer>
+        </item>
+         <item itemNo="39">
+            <question> _________  could be a variation of the while loop, which assesses the condition at the end of each loop cycle</question>
+            <choice1>A. While loop</choice1>
+            <choice2>B. Do while loop</choice2>
+            <choice3>C. For loop</choice3>
+            <choice4>D. Switch</choice4>
+            <answer>B. Do while loop</answer>
+        </item>
+         <item itemNo="40">
+            <question> _________ is utilized to perform various actions based on different conditions.</question>
+            <choice1>A. While loop</choice1>
+            <choice2>B. Do while loop</choice2>
+            <choice3>C. For loop</choice3>
+            <choice4>D. Switch</choice4>
+            <answer>D. Switch</answer>
+        </item>
+         <item itemNo="41">
+            <question>. _________ loops through a piece of code as long as the condition indicated is assessed to be correct</question>
+            <choice1>A. While loop</choice1>
+            <choice2>B. Do while loop</choice2>
+            <choice3>C. For loop</choice3>
+            <choice4>D. Switch</choice4>
+            <answer>A. While loop</answer>
+        </item>
+         <item itemNo="42">
+            <question>_________  the piece of code executed once after that condition is assessed. If the condition is correct, the statement is repeated as long as the indicated condition is correct</question>
+            <choice1>A. While loop</choice1>
+            <choice2>B. Do while loop</choice2>
+            <choice3>C. For loop</choice3>
+            <choice4>D. Switch</choice4>
+            <answer>B. Do while loop</answer>
+        </item>
+         <item itemNo="43">
+            <question> __________ changes the loop counter with a new value. It assesses at the end of each iteration.</question>
+            <choice1>A. Afterthought</choice1>
+            <choice2>B. For loop</choice2>
+            <choice3>C. Initialization</choice3>
+            <choice4>D. Condition</choice4>
+            <answer>A. Afterthought</answer>
+        </item>
+         <item itemNo="44">
+            <question> __________ assign to initialize the counter variables and assess once unconditionally before the first execution of the body of the loop.</question>
+            <choice1>A. Afterthought</choice1>
+            <choice2>B. For loop</choice2>
+            <choice3>C. Initialization</choice3>
+            <choice4>D. Condition</choice4>
+            <answer>C. Initialization</answer>
+        </item>
+         <item itemNo="45">
+            <question> __________ within the starting of each iteration, the condition is assessed. On the off chance that it is assessed to be true, the loop proceeds, and the nested statements are executed. If it assesses to be wrong, the execution of the loop will end.</question>
+            <choice1>A. Afterthought</choice1>
+            <choice2>B. For loop</choice2>
+            <choice3>C. Initialization</choice3>
+            <choice4>D. Condition</choice4>
+            <answer>D. Condition</answer>
+        </item>
+    </quiz>
+    <quiz quizNo="4"> <!-- LESSON 4 -->
+        <item itemNo="46"> <!-- 1 -->
+            <question> _____ is utilized by a newline character</question>
+            <choice1>A. "\n"</choice1> 
+            <choice2>B. "\r"</choice2> 
+            <choice3>C. "\t"</choice3> 
+            <choice4>D. "\$"</choice4> 
+            <answer>A. "\n"</answer>
+        </item>
+        <item itemNo="47">
+            <question> ____ is utilized by the carriage-return character</question>
+            <choice1>A. "\n"</choice1> 
+            <choice2>B. "\r"</choice2> 
+            <choice3>C. "\t"</choice3> 
+            <choice4>D. "\$"</choice4> 
+            <answer>B. "\r"</answer>
+        </item>
+         <item itemNo="48">
+            <question> ____ is utilized by the tab character</question>
+            <choice1>A. "\n"</choice1> 
+            <choice2>B. "\r"</choice2> 
+            <choice3>C. "\t"</choice3> 
+            <choice4>D. "\$"</choice4> 
+            <answer>C. "\t"</answer>
+        </item>
+         <item itemNo="49">
+            <question> ____ is utilized by the dollar sign itself</question>
+            <choice1>A. "\n"</choice1> 
+            <choice2>B. "\r"</choice2> 
+            <choice3>C. "\t"</choice3> 
+            <choice4>D. "\$"</choice4> 
+            <answer>D. "\$"</answer>
+        </item>
+         <item itemNo="50">
+            <question> ____ is utilized by a single double-quote </question>
+            <choice1>A. "\n"</choice1> 
+            <choice2>B. "\r"</choice2> 
+            <choice3>C. "\t"</choice3> 
+            <choice4>D.  \" </choice4> 
+            <answer>D.  \" </answer>
+        </item>
+         <item itemNo="51">
+            <question> _______ is utilized by a single backslash.</question>
+            <choice1>A. "\\"</choice1> 
+            <choice2>B. "\r"</choice2> 
+            <choice3>C. "\t"</choice3> 
+            <choice4>D. "\$"</choice4> 
+            <answer>A. "\\"</answer>
+        </item>
+         <item itemNo="52"> <!-- 7 -->
+            <question> ________  function utilizes the calculation of the number of characters within a string.</question>
+            <choice1>A. strlen()</choice1>
+            <choice2>B. str_word_count()</choice2>
+            <choice3>C. str_replace()</choice3>
+            <choice4>D. strpos()</choice4>
+            <answer>A. strlen()</answer>
+        </item>
+         <item itemNo="53">
+            <question>Using the _________ function, it will count the number of words within a string.</question>
+            <choice1>A. strlen()</choice1>
+            <choice2>B. str_word_count()</choice2>
+            <choice3>C. str_replace()</choice3>
+            <choice4>D. strpos()</choice4>
+            <answer>B. str_word_count()</answer>
+        </item>
+         <item itemNo="54">
+            <question> The _______ method converts a string to an array</question>
+            <choice1>A. explode()</choice1>
+            <choice2>B. str_word_count()</choice2>
+            <choice3>C. str_replace()</choice3>
+            <choice4>D. strpos()</choice4>
+            <answer>A. explode()</answer>
+        </item>
+         <item itemNo="55">
+            <question> An Array which contains single or numerous Arrays inside it and can be obtained by using numerous indices</question>
+            <choice1>A. Multi - dimensional Arrays</choice1>
+            <choice2>B. Indexed Arrays</choice2>
+            <choice3>C. Associative Arrays</choice3>
+            <choice4>D. Arrays</choice4>
+            <answer>A. Multi - dimensional Arrays</answer>
+        </item>
+         <item itemNo="56">
+            <question>The _______ method returns the position of the string if it is found on the given haystack</question>
+            <choice1>A. explode()</choice1>
+            <choice2>B. str_word_count()</choice2>
+            <choice3>C. str_replace()</choice3>
+            <choice4>D. strpos()</choice4>
+            <answer>D. strpos()</answer>
+        </item>
+         <item itemNo="57"> <!-- 12 -->
+            <question>The _______ property counts all the elements in an array</question>
+            <choice1>A. explode()</choice1>
+            <choice2>B. str_word_count()</choice2>
+            <choice3>C. count()</choice3>
+            <choice4>D. strpos()</choice4>
+            <answer>C. count()</answer>
+        </item>
+         <item itemNo="58">
+            <question>An array with a string list where rather than straight storage, each value can be allotted a particular key</question>
+            <choice1>A. Multi - dimensional Arrays</choice1>
+            <choice2>B. Indexed Arrays</choice2>
+            <choice3>C. Associative Arrays</choice3>
+            <choice4>D. Arrays</choice4>
+            <answer>C. Associative Arrays</answer>
+        </item>
+         <item itemNo="59">
+            <question>An array with a numeric file where values are put away linearly.</question>
+            <choice1>A. Multi - dimensional Arrays</choice1>
+            <choice2>B. Indexed Arrays</choice2>
+            <choice3>C. Associative Arrays</choice3>
+            <choice4>D. Arrays</choice4>
+            <answer>B. Indexed Arrays</answer>
+        </item>
+        <item itemNo="60">
+            <question>Are used to create a list of elements of distinctive types, which can be gotten to utilizing their index or key.</question>
+            <choice1>A. Multi - dimensional Arrays</choice1>
+            <choice2>B. Indexed Arrays</choice2>
+            <choice3>C. Associative Arrays</choice3>
+            <choice4>D. Arrays</choice4>
+            <answer>D.  Arrays</answer>
+        </item>
+    </quiz>
+    <quiz quizNo="5"> <!-- LESSON 5 -->
+        <item itemNo="61"> <!-- 1 -->
+            <question>The column name. It will appear at the top of the table.</question>
+            <choice1>A. name</choice1> 
+            <choice2>B. type</choice2> 
+            <choice3>C. length/values</choice3> 
+            <choice4>D. index</choice4> 
+            <answer>A. name</answer>
+        </item>
+        <item itemNo="62">
+            <question>You can set various values, including int, varchar, and string. For example, select varchar to enter a string type name, which uses letters, not numbers.</question>
+            <choice1>A. name</choice1> 
+            <choice2>B. type</choice2> 
+            <choice3>C. length/values</choice3> 
+            <choice4>D. index</choice4> 
+            <answer>B. type</answer>
+        </item>
+         <item itemNo="63">
+            <question>To enumerate table entries, which is required when configuring table relationships</question>
+            <choice1>A. name</choice1> 
+            <choice2>B. type</choice2> 
+            <choice3>C. length/values</choice3> 
+            <choice4>D. index</choice4> 
+            <answer>D. index</answer>
+        </item>
+         <item itemNo="64">
+            <question>The maximum entry length for a particular column.</question>
+            <choice1>A. name</choice1> 
+            <choice2>B. type</choice2> 
+            <choice3>C. length/values</choice3> 
+            <choice4>D. index</choice4> 
+            <answer>C. length/values</answer>
+        </item>
+         <item itemNo="65">
+            <question>What statement is used to save a record one at a time?</question>
+            <choice1>A. insert to</choice1> 
+            <choice2>B. record</choice2> 
+            <choice3>C. delete</choice3> 
+            <choice4>D. add</choice4> 
+            <answer>A. insert to</answer>
+        </item>
+         <item itemNo="66">
+            <question>Used to separate rows or groups of data in INSERT INTO Statement.</question>
+            <choice1>A. period</choice1> 
+            <choice2>B. curly brace</choice2> 
+            <choice3>C. comma</choice3> 
+            <choice4>D. slash</choice4> 
+            <answer>C. comma</answer>
+        </item>
+         <item itemNo="67"> <!-- 7 -->
+            <question>What is the function of query?</question>
+            <choice1>A. to help you find and work with your data</choice1>
+            <choice2>B. to find what is the error in your system</choice2>
+            <choice3>C. to save a record one at a time</choice3>
+            <choice4>D. none of the above</choice4>
+            <answer>A. to help you find and work with your data</answer>
+        </item>
+         <item itemNo="68">
+            <question>to help you find and work with your data.</question>
+            <choice1>A. one row</choice1>
+            <choice2>B. two row</choice2>
+            <choice3>C. three row</choice3>
+            <choice4>D. five row</choice4>
+            <answer>B. two row</answer>
+        </item>
+         <item itemNo="69">
+            <question>There are two ways of PHP-MySQL connection and what are they?</question>
+            <choice1>A. the MySQLi extension and the BDO</choice1>
+            <choice2>B. the MySQLi extension and the ODP</choice2>
+            <choice3>C. the MySQLi extension and the OOP</choice3>
+            <choice4>D. the MySQLi extension and the PDO</choice4>
+            <answer>D. the MySQLi extension and the PDO</answer>
+        </item>
+         <item itemNo="70">
+            <question>The VALUES identifies?</question>
+            <choice1>A. values to be inserted in the table.</choice1>
+            <choice2>B. values to be deleted in the table.</choice2>
+            <choice3>C. values to be copied in the table.</choice3>
+            <choice4>D. values to be duplicated in the table.</choice4>
+            <answer>A. values to be inserted in the table.</answer>
+        </item>
+         <item itemNo="71">
+            <question>It defines the username in myqli_connect() parameters.</question>
+            <choice1>A. 1st parameter</choice1>
+            <choice2>B. 2nd parameter</choice2>
+            <choice3>C. 3rd parameter</choice3>
+            <choice4>D. 4th parameter</choice4>
+            <answer>B. 2nd parameter</answer>
+        </item>
+         <item itemNo="72"> <!-- 12 -->
+            <question>It defines the user's password in myqli_connect() parameters.</question>
+            <choice1>A. 1st parameter</choice1>
+            <choice2>B. 2nd parameter</choice2>
+            <choice3>C. 3rd parameter</choice3>
+            <choice4>D. 4th parameter</choice4>
+            <answer>C. 3rd parameter</answer>
+        </item>
+         <item itemNo="73">
+            <question>It defines the database in myqli_connect() parameters.</question>
+            <choice1>A. 1st parameter</choice1>
+            <choice2>B. 2nd parameter</choice2>
+            <choice3>C. 3rd parameter</choice3>
+            <choice4>D. 4th parameter</choice4>
+            <answer>D. 4th parameter</answer>
+        </item>
+         <item itemNo="74">
+            <question>Which is correct about DELETE Statement?</question>
+            <choice1>A. Omitting the WHERE clause in DELETE Statement will delete all rows.</choice1>
+            <choice2>B. All rows removed on a table by a DELETE Statement are in an archive.</choice2>
+            <choice3>C. If the target column in the WHERE clause of a DELETE Statement is not UNIQUE, it will cause to remove more than on record.</choice3>
+            <choice4>D. The DELETE Statement always requires the WHERE clause.</choice4>
+            <answer>A. Omitting the WHERE clause in DELETE Statement will delete all rows.</answer>
+        </item>
+        <item itemNo="75">
+            <question>Which of the following is a correct step in adding data to a MySQL database table using the MySQLi extension in PHP?</question>
+            <choice1>A. Creating an HTML form to collect the user input</choice1>
+            <choice2>B. Executing a SELECT query to retrieve the data from the database</choice2>
+            <choice3>C. Opening a connection to the database using the mysqli_connect() function</choice3>
+            <choice4>D. Passing the data to the mysqli_fetch_array() function to store it in the database table.</choice4>
+            <answer>C. Opening a connection to the database using the mysqli_connect() function</answer>
+        </item>
+    </quiz>
+    <quiz quizNo="6"> <!-- LESSON 6 --> 
+        <item itemNo="76"> <!-- 1 -->
+            <question>GET method is passed as?</question>
+            <choice1>A. Values</choice1> 
+            <choice2>B. URL Parameters</choice2> 
+            <choice3>C. Variables</choice3> 
+            <choice4>D. None of the above</choice4> 
+            <answer>A. name</answer>
+        </item>
+        <item itemNo="77"> <!-- Need "<>"" -->
+            <question>Tag used to create a form</question> 
+            <choice1>A. create_form</choice1> 
+            <choice2>B. from</choice2> 
+            <choice3>C. form</choice3> 
+            <choice4>D. None of the above</choice4> 
+            <answer>C. form</answer>
+        </item>
+        <item itemNo="78">
+            <question>Is $_POST a superglobal?</question>
+            <choice1>A. True</choice1> 
+            <choice2>B. False</choice2> 
+            <choice3>C. Maybe</choice3> 
+            <choice4>D. None of the above</choice4> 
+            <answer>A. True</answer>
+        </item>
+        <item itemNo="79">
+            <question>Is $_GET not a superglobal?</question>
+            <choice1>A. True</choice1> 
+            <choice2>B. False</choice2> 
+            <choice3>C. Maybe</choice3> 
+            <choice4>D. None of the above</choice4> 
+            <answer>B. False</answer>
+        </item>
+        <item itemNo="80">
+            <question>Correct syntax for post superglobal.</question>
+            <choice1>A. $post</choice1> 
+            <choice2>B. $POST</choice2> 
+            <choice3>C. $_POST</choice3> 
+            <choice4>D. $_POST_$</choice4> 
+            <answer>C. $_POST</answer>
+        </item>
+        <item itemNo="81">
+            <question>Correct syntax for get superglobal.</question>
+            <choice1>A. $_GET</choice1> 
+            <choice2>B. $GET</choice2> 
+            <choice3>C. $get</choice3> 
+            <choice4>D. None of the above</choice4> 
+            <answer>A. $_GET</answer>
+        </item>
+        <item itemNo="82"> <!-- 7 -->
+            <question>Text or content files put away on the client computer, and they are kept to utilize tracking purposes</question>
+            <choice1>A. Timers</choice1>
+            <choice2>B. Sessions</choice2>
+            <choice3>C. Cookies</choice3>
+            <choice4>D. None of the above</choice4> 
+            <answer>C. Cookies</answer>
+        </item>
+         <item itemNo="83">
+            <question>Function used to set a cookie</question>
+            <choice1>A. set-the-cookie()</choice1>
+            <choice2>B. setcookie()</choice2>
+            <choice3>C. cookieset()</choice3>
+            <choice4>D. None of the above</choice4> 
+            <answer>B. setcookie()</answer>
+        </item>
+        <item itemNo="84">
+            <question>The alternative way to make data more accessible across the various pages of an entire website</question>
+            <choice1>A. Timers</choice1>
+            <choice2>B. Sessions</choice2>
+            <choice3>C. Cookies</choice3>
+            <choice4>D. None of the above</choice4> 
+            <answer>B. Sessions</answer>
+        </item>
+         <item itemNo="85">
+            <question>What is the name of the cookie that is systematically sent to the user&apos;s computer to store up unique sessions for identification string.</question>
+            <choice1>A. PHPSESSID</choice1>
+            <choice2>B. PHPSSSID</choice2>
+            <choice3>C. PHPSEID</choice3>
+            <choice4>D. None of the above</choice4> 
+            <answer>A. PHPSESSID</answer>
+        </item>
+         <item itemNo="86">
+            <question>What function is needed to redirect a user to another page?</question>
+            <choice1>A. go_next()</choice1>
+            <choice2>B. redirect()</choice2>
+            <choice3>C. header()</choice3>
+            <choice4>D. None of the above</choice4> 
+            <answer>C. header()</answer>
+        </item>
+        <item itemNo="87"> <!-- 12 -->
+            <question>Where is the session being put away?</question>
+            <choice1>A. $SESSION_STORAGE[]</choice1>
+            <choice2>B. $_SESSION[]</choice2>
+            <choice3>C. $SESSION[]</choice3>
+            <choice4>D. None of the above</choice4> 
+            <answer>B. $_SESSION[]</answer>
+        </item>
+        <item itemNo="88">
+            <question>What function is needed to start a function?</question>
+            <choice1>A. session_start()</choice1>
+            <choice2>B. start_session()</choice2>
+            <choice3>C. initialize_session()</choice3>
+            <choice4>D. None of the above</choice4> 
+            <answer>B. start_session()</answer>
+        </item>
+        <item itemNo="89">
+            <question>What is the common duration of session before its termination?</question>
+            <choice1>A. a Whole Hour</choice1>
+            <choice2>B. Quarter of an Hour</choice2>
+            <choice3>C. Half an hour</choice3>
+            <choice4>D. Two hours</choice4> 
+            <answer>C. Half an hour</answer>
+        </item>
+        <item itemNo="90">
+            <question>PHP Language Structure of setcookie()</question>
+            <choice1>A. setcookie(name, variety, expire, pathology, domain, security);</choice1>
+            <choice2>B. setcookie(namespace, value, expiration, path, domain, highsecurity);</choice2>
+            <choice3>C. setcookie(name, value, expire, path, domain, security);</choice3>
+            <choice4>D. None of the above</choice4> 
+            <answer>C. setcookie(name, value, expire, path, domain, security);</answer>
+        </item>
+    </quiz>
+    <quiz quizNo="7"> <!-- LESSON 7 --> 
+        <item itemNo="91"> <!-- 1 -->
+            <question>It is an approach to software development that models applications around real-world objects?</question>
+            <choice1>A. Object</choice1> 
+            <choice2>B. Method</choice2> 
+            <choice3>C. Class</choice3> 
+            <choice4>D. Object-Oriented Programming </choice4> 
+            <answer>D. Object-Oriented Programming </answer>
+        </item>
+        <item itemNo="92">
+            <question>It is the occurrence or instance of a class?</question>
+            <choice1>A. Object</choice1> 
+            <choice2>B. Method</choice2> 
+            <choice3>C. Class</choice3> 
+            <choice4>D. Object-Oriented Programming </choice4> 
+            <answer>A. Object</answer>
+        </item>
+        <item itemNo="93">
+            <question>It is the properties of the real-world object?</question>
+            <choice1>A. Object</choice1> 
+            <choice2>B. Method</choice2> 
+            <choice3>C. Class</choice3> 
+            <choice4>D. Object-Oriented Programming </choice4>  
+            <answer>C. Class</answer>
+        </item>
+        <item itemNo="94">
+            <question>Which one is not a basic element of object orientation?</question>
+            <choice1>A. Object-oriented analysis</choice1> 
+            <choice2>B. Object-oriented designing</choice2> 
+            <choice3>C. Object-oriented programming</choice3> 
+            <choice4>D. Object-oriented management</choice4> 
+            <answer>D. Object-oriented management</answer>
+        </item>
+        <item itemNo="95">
+            <question>It is the element of object orientation that pertains to the functionality of the system?</question>
+            <choice1>A. Object-oriented analysis</choice1> 
+            <choice2>B. Object-oriented designing</choice2> 
+            <choice3>C. Object-oriented programming</choice3> 
+            <choice4>D. Object-oriented management</choice4> 
+            <answer>A. Object-oriented analysis</answer>
+        </item>
+        <item itemNo="96">
+            <question>It is the element of object orientation that pertains to the architecture of the system?</question>
+            <choice1>A. Object-oriented analysis</choice1> 
+            <choice2>B. Object-oriented designing</choice2> 
+            <choice3>C. Object-oriented programming</choice3> 
+            <choice4>D. Object-oriented management</choice4>
+            <answer>B. Object-oriented designing</answer>
+        </item>
+        <item itemNo="97"> <!-- 7 -->
+            <question>It is the element of object orientation that pertains to the implementation of the application?</question>
+            <choice1>A. Object-oriented analysis</choice1> 
+            <choice2>B. Object-oriented designing</choice2> 
+            <choice3>C. Object-oriented programming</choice3> 
+            <choice4>D. Object-oriented management</choice4>
+            <answer>C. Object-oriented programming</answer>
+        </item>
+        <item itemNo="98">
+            <question>The objects of a class are created using the __ keyword?</question>
+            <choice1>A. this</choice1>
+            <choice2>B. new</choice2>
+            <choice3>C. function</choice3>
+            <choice4>D. return</choice4> 
+            <answer>B. new</answer>
+        </item>
+        <item itemNo="99">
+            <question>It is about writing and composing procedures or functions that perform various operations on the data.</question>
+            <choice1>A. Classes</choice1>
+            <choice2>B. Objects</choice2>
+            <choice3>C. Procedural Programming</choice3>
+            <choice4>D. Object-Oriented Programming</choice4> 
+            <answer>C. Procedural Programming</answer>
+        </item>
+        <item itemNo="100">
+            <question>It is the principle that wraps data in a single unit wherein its main function is to protect the data in an object from other classes?</question>
+            <choice1>A. Encapsulation</choice1>
+            <choice2>B. Polymorphism</choice2>
+            <choice3>C. Variables</choice3>
+            <choice4>D. Inheritance</choice4> 
+            <answer>A. Encapsulation</answer>
+        </item>
+        <item itemNo="101">
+            <question>Is the principle that is concerned with the relationships between classes which is categorized whether a parent or child class?</question>
+            <choice1>A. Encapsulation</choice1>
+            <choice2>B. Polymorphism</choice2>
+            <choice3>C. Variables</choice3>
+            <choice4>D. Inheritance</choice4> 
+            <answer>D. Inheritance</answer>
+        </item>
+        <item itemNo="102"> <!-- 12 -->
+            <question>It is the principle that is about having a single form but have different implementation ways.</question>
+            <choice1>A. Encapsulation</choice1>
+            <choice2>B. Polymorphism</choice2>
+            <choice3>C. Variables</choice3>
+            <choice4>D. Inheritance</choice4>  
+            <answer>B. Polymorphism</answer>
+        </item>
+        <item itemNo="103">
+            <question>It is an access modifier which is accessible even without inheritance?</question>
+            <choice1>A. Public</choice1>
+            <choice2>B. Default</choice2>
+            <choice3>C. Protected</choice3>
+            <choice4>D. Private</choice4> 
+            <answer>A. Public</answer>
+        </item>
+        <item itemNo="104">
+            <question>It is the access modifier that are only accessible through inheriting the class with protected methods and properties?</question>
+            <choice1>A. Public</choice1>
+            <choice2>B. Default</choice2>
+            <choice3>C. Protected</choice3>
+            <choice4>D. Private</choice4> 
+            <answer>C. Protected</answer>
+        </item>
+        <item itemNo="105">
+            <question>This is the access modifier wherein the class who owns the method or poperty is the only one allowed to use it?</question>
+            <choice1>A. Public</choice1>
+            <choice2>B. Default</choice2>
+            <choice3>C. Protected</choice3>
+            <choice4>D. Private</choice4> 
+            <answer>D. Private</answer>
+        </item>
+    </quiz>
+     <!-- UNIT 5 --> 
+    <quiz quizNo="8"><!-- LESSON 1 -->
+        <item itemNo="106">
+            <question>__________ is a free and easy to install PHP development environment tool used to develop websites?</question>
+            <choice1>A. Apache</choice1>
+            <choice2>B. MySQL</choice2>
+            <choice3>C. XAMPP</choice3>
+            <choice4>D. PHP</choice4>
+            <answer>C. XAMPP</answer>
+        </item>
+        <item itemNo="107">
+            <question>Which of the following is a common Database Management System (DBMS) used in web development that is developed, distributed, and supported by the Oracle Corporation?</question>
+            <choice1>A. Apache</choice1>
+            <choice2>B. MySQL</choice2>
+            <choice3>C. XAMPP</choice3>
+            <choice4>D. PHP</choice4>
+            <answer>B. MySQL</answer>
+        </item>
+        <item itemNo="108">
+            <question>______ or the Hypertext Preprocessor is a server-side scripting language used to develop dynamic web pages.</question>
+            <choice1>A. Apache</choice1>
+            <choice2>B. MySQL</choice2>
+            <choice3>C. XAMPP</choice3>
+            <choice4>D. PHP</choice4>
+            <answer>D. PHP</answer>
+        </item>
+        <item itemNo="109">
+            <question>___________ lets web developers handle the administration of MySQL over the web?</question>
+            <choice1>A. Apache</choice1>
+            <choice2>B. MySQL</choice2>
+            <choice3>C. PHPMyAdmin</choice3>
+            <choice4>D. PHP</choice4>
+            <answer>C. PHPMyAdmin</answer>
+        </item>
+        <item itemNo="110">
+            <question>A data type used for integers or whole numbers.</question>
+            <choice1>A. date</choice1>
+            <choice2>B. char</choice2>
+            <choice3>C. int</choice3>
+            <choice4>D. text</choice4>
+            <answer>C. char</answer>
+        </item>
+        <item itemNo="111">
+            <question>A data type that is used for holding large amounts of text?</question>
+            <choice1>A. date</choice1>
+            <choice2>B. char</choice2>
+            <choice3>C. int</choice3>
+            <choice4>D. text</choice4>
+            <answer>A. date</answer>
+        </item>
+        <item itemNo="112">
+            <question>This data type can be used for both date and time?</question>
+            <choice1>A. collation</choice1>
+            <choice2>B. datetime</choice2>
+            <choice3>C. index</choice3>
+            <choice4>D. default</choice4>
+            <answer>B. datetime</answer>
+        </item>
+        <item itemNo="113">
+            <question>The _______ is used if a column will be the PRIMARY KEY of the table. Or if the column will handle UNIQUE values.</question>
+            <choice1>A. collation</choice1>
+            <choice2>B. datetime</choice2>
+            <choice3>C. index</choice3>
+            <choice4>D. default</choice4>
+            <answer>C. index</answer>
+        </item>
+        <item itemNo="114">
+            <question>________ is used if a column needs other types of MySQL schema.</question>
+            <choice1>A. collation</choice1>
+            <choice2>B. datetime</choice2>
+            <choice3>C. index</choice3>
+            <choice4>D. default</choice4>
+            <answer>A. collation</answer>
+        </item>
+        <item itemNo="115">
+            <question>Which of the following does not belong to the XAMPP acronym.</question>
+            <choice1>A. Apache</choice1>
+            <choice2>B. MySQL</choice2>
+            <choice3>C. CSS</choice3>
+            <choice4>D. PHP</choice4>
+            <answer>C. CSS</answer>
+        </item>
+        <item itemNo="116">
+            <question>Below are the actions developers can do in PHPMyAdmin, which does not belong to the group?</question>
+            <choice1>A. Create Database</choice1>
+            <choice2>B. Inserting Records</choice2>
+            <choice3>C. Deleting Records</choice3>
+            <choice4>D. Design User Interface</choice4>
+            <answer>D. Design User Interface</answer>
+        </item>
+        <item itemNo="117">
+            <question>Below are the actions developers can do in PHPMyAdmin, which does not belong to the group?</question>
+            <choice1>A. Create Database</choice1>
+            <choice2>B. Inserting Records</choice2>
+            <choice3>C. Deleting Records</choice3>
+            <choice4>D. Design User Interface</choice4>
+            <answer>D. Design User Interface</answer>
+        </item>
+        <item itemNo="118">
+            <question>________ is used in a column that needs to have a default value.</question>
+            <choice1>A. collation</choice1>
+            <choice2>B. datetime</choice2>
+            <choice3>C. index</choice3>
+            <choice4>D. default</choice4>
+            <answer>D. default</answer>
+        </item>
+        <item itemNo="119">
+            <question>_______ is used to define whether a column can be a NULL value.</question>
+            <choice1>A. collation</choice1>
+            <choice2>B. datetime</choice2>
+            <choice3>C. null</choice3>
+            <choice4>D. default</choice4>
+            <answer>C. null</answer>
+        </item>
+        <item itemNo="120">
+            <question>__________ is used to filter the records based on the operators and values provided in each column.</question>
+            <choice1>A. Table Search</choice1>
+            <choice2>B. Zoom Table</choice2>
+            <choice3>C. Insert</choice3>
+            <choice4>D. Actions</choice4>
+            <answer>A. Table Search</answer>
+        </item>
+    </quiz>
+    <quiz quizNo="9"><!-- LESSON 2 -->
+        <item itemNo="121">
+            <question>What is the Database that is mainly used for PHP?</question>
+            <choice1>A. MySQL</choice1>
+            <choice2>B. HTML</choice2>
+            <choice3>C. XML</choice3>
+            <choice4>D. Firebase</choice4>
+            <answer>A. MySQL</answer>
+        </item>
+        <item itemNo="122">
+            <question>PDO requires this line of code to close the database connection.</question>
+            <choice1>A. %conn-&gt;lose()</choice1>
+            <choice2>B. mysql_close($conn)</choice2>
+            <choice3>C. $conn = null</choice3>
+            <choice4>D. close($conn)</choice4>
+            <answer>C. $conn = null</answer>
+        </item>
+        <item itemNo="123">
+            <question>What is the database extension implemented to use for database connections using PHP 5.1 or above?</question>
+            <choice1>A. SQL</choice1>
+            <choice2>B. XML</choice2>
+            <choice3>C. OCD</choice3>
+            <choice4>D. PDO</choice4>
+            <answer>D. PDO</answer>
+        </item>
+        <item itemNo="124">
+            <question>MySQLi extension (Procedural) requires this line of code to close the database connection.</question>
+            <choice1>A. $conn-&gt;close()</choice1>
+            <choice2>B. mysql_close($conn)</choice2>
+            <choice3>C. $conn = null</choice3>
+            <choice4>D. close($conn)</choice4>
+            <answer>B. mysql_close($conn)</answer>
+        </item>
+        <item itemNo="125">
+            <question>MySQLi extension (Object-Oriented) requires this line of code to close the database connection.</question>
+            <choice1>A. $conn-&gt;close()</choice1>
+            <choice2>B. mysql_close($conn)</choice2>
+            <choice3>C. $conn = null</choice3>
+            <choice4>D. close($conn)</choice4>
+            <answer>A. $conn-&gt;close()</answer>
+        </item>
+        <item itemNo="126">
+            <question>What is the default username used in database connection?</question>
+            <choice1>A. head</choice1>
+            <choice2>B. user</choice2>
+            <choice3>C. root</choice3>
+            <choice4>D. title</choice4>
+            <answer>C. root</answer>
+        </item>
+        <item itemNo="127">
+            <question>What do you call the PHP database extension implemented to use in PHP 5.5 or above.</question>
+            <choice1>A. MySQLi</choice1>
+            <choice2>B. Firebase</choice2>
+            <choice3>C. Javascript</choice3>
+            <choice4>D. OOP</choice4>
+            <answer>A. MySQLi</answer>
+        </item>
+        <item itemNo="128">
+            <question>What is a PHP Variable starting with?</question>
+            <choice1>A. _</choice1>
+            <choice2>B. &amp;</choice2>
+            <choice3>C. ?</choice3>
+            <choice4>D. $</choice4>
+            <answer>D. $</answer>
+        </item>
+        <item itemNo="129">
+            <question>What statement is used to retrieve selected record(s) from one or more tables?</question>
+            <choice1>A. FROM</choice1>
+            <choice2>B. SELECT</choice2>
+            <choice3>C. DELETE</choice3>
+            <choice4>D. WHERE</choice4>
+            <answer>B. SELECT</answer>
+        </item>
+        <item itemNo="130">
+            <question>What statement is used to filter the records to be retrieved?</question>
+            <choice1>A. FROM</choice1>
+            <choice2>B. SELECT</choice2>
+            <choice3>C. DELETE</choice3>
+            <choice4>D. WHERE</choice4>
+            <answer>D. WHERE</answer>
+        </item>
+        <item itemNo="131">
+            <question>What statement is used to identify which table the records?</question>
+            <choice1>A. FROM</choice1>
+            <choice2>B. SELECT</choice2>
+            <choice3>C. DELETE</choice3>
+            <choice4>D. WHERE</choice4>
+            <answer>A. FROM</answer>
+        </item>
+        <item itemNo="132">
+            <question>What does the SELECT statement uses to get all the columns?</question>
+            <choice1>A. _</choice1>
+            <choice2>B. *</choice2>
+            <choice3>C. ?</choice3>
+            <choice4>D. $</choice4>
+            <answer>B. *</answer>
+        </item>
+        <item itemNo="133">
+            <question>What does the letter &quot;i&quot; in MySQLi extension stand for?</question>
+            <choice1>A. implementation</choice1>
+            <choice2>B. interpretation</choice2>
+            <choice3>C. improved</choice3>
+            <choice4>D. invoked</choice4>
+            <answer>C. improved</answer>
+        </item>
+        <item itemNo="134">
+            <question>What are the different ways to connect PHP to MySQL?</question>
+            <choice1>A. MySQLi extension</choice1>
+            <choice2>B. PDO</choice2>
+            <choice3>C. Both A &amp; B</choice3>
+            <choice4>D. None of the above</choice4>
+            <answer>C. Both A &amp; B</answer>
+        </item>
+        <item itemNo="135">
+            <question>Both the MySQLi extension and PDO support Prepared Statements.</question>
+            <choice1>A. True</choice1>
+            <choice2>B. False</choice2>
+            <choice3>C. Maybe</choice3>
+            <choice4>D. None of the above</choice4>
+            <answer>A. True</answer>
+        </item>
+    </quiz>
+    <quiz quizNo="10"><!-- LESSON 3 -->
+        <item itemNo="136">
+            <question>The column name. It will appear at the top of the table.</question>
+            <choice1>A. name</choice1>
+            <choice2>B. type</choice2>
+            <choice3>C. length/values</choice3>
+            <choice4>D. index</choice4>
+            <answer>A. name</answer>
+        </item>
+        <item itemNo="137">
+            <question>You can set various values, including int, varchar, and string. For example, select varchar to enter a string type name, which uses letters, not numbers.</question>
+            <choice1>A. name</choice1>
+            <choice2>B. type</choice2>
+            <choice3>C. length/values</choice3>
+            <choice4>D. index</choice4>
+            <answer>B. type</answer>
+        </item>
+        <item itemNo="138">
+            <question>The maximum entry length for a particular column.</question>
+            <choice1>A. name</choice1>
+            <choice2>B. type</choice2>
+            <choice3>C. length/values</choice3>
+            <choice4>D. index</choice4>
+            <answer>C. length/values</answer>
+        </item>
+        <item itemNo="139">
+            <question>To enumerate table entries, which is required when configuring table relationships.</question>
+            <choice1>A. name</choice1>
+            <choice2>B. type</choice2>
+            <choice3>C. length/values</choice3>
+            <choice4>D. index</choice4>
+            <answer>D. index</answer>
+        </item>
+        <item itemNo="140">
+            <question>What statement is used to save a record one at a time?</question>
+            <choice1>A. insert to</choice1>
+            <choice2>B. record</choice2>
+            <choice3>C. delete</choice3>
+            <choice4>D. add</choice4>
+            <answer>A. insert to</answer>
+        </item>
+        <item itemNo="141">
+            <question>Used to separate rows or groups of data in INSERT INTO Statement.</question>
+            <choice1>A. period</choice1>
+            <choice2>B. curly brace</choice2>
+            <choice3>C. comma</choice3>
+            <choice4>D. slash</choice4>
+            <answer>C. comma</answer>
+        </item>
+        <item itemNo="142">
+            <question>What is the function of query?</question>
+            <choice1>A. to help you find and work with your data</choice1>
+            <choice2>B. to find what is the error in your system</choice2>
+            <choice3>C. to save a record one at a time</choice3>
+            <choice4>D. None of the above</choice4>
+            <answer>A. to help you find and work with your data</answer>
+        </item>
+        <item itemNo="143">
+            <question>How many rows of data needed be insert in the INSERT INTO Statement?</question>
+            <choice1>A. one row</choice1>
+            <choice2>B. two rows</choice2>
+            <choice3>C. three rows</choice3>
+            <choice4>D. five rows</choice4>
+            <answer>B. two rows</answer>
+        </item>
+        <item itemNo="144">
+            <question>there are two ways of PHP-MySQL connection and what are they?</question>
+            <choice1>A. the MySQLi extension and the BDO</choice1>
+            <choice2>B. the MySQLi extension and the ODP</choice2>
+            <choice3>C. the MySQLi extension and the OOP</choice3>
+            <choice4>D. the MySQLi extension and the PDO</choice4>
+            <answer>D. the MySQLi extension and the PDO</answer>
+        </item>
+        <item itemNo="145">
+            <question>there are two ways of PHP-MySQL connection and what are they?</question>
+            <choice1>A. the MySQLi extension and the BDO</choice1>
+            <choice2>B. the MySQLi extension and the ODP</choice2>
+            <choice3>C. the MySQLi extension and the OOP</choice3>
+            <choice4>D. the MySQLi extension and the PDO</choice4>
+            <answer>D. the MySQLi extension and the PDO</answer>
+        </item>
+        <item itemNo="146">
+            <question>the VALUES identifies?</question>
+            <choice1>A. values to be inserted in the table.</choice1>
+            <choice2>B. values to be deleted in the table.</choice2>
+            <choice3>C. values to be copied in the table.</choice3>
+            <choice4>D. values to be duplicated in the table.</choice4>
+            <answer>A. values to be inserted in the table.</answer>
+        </item>
+        <item itemNo="147">
+            <question>It defines the username in myqli_connect() parameters.</question>
+            <choice1>A. 1st parameter</choice1>
+            <choice2>B. 3rd parameter</choice2>
+            <choice3>C. 2nd parameter</choice3>
+            <choice4>D. 4th parameter</choice4>
+            <answer>C. 2nd parameter</answer>
+        </item>
+        <item itemNo="148">
+            <question>It defines the user&apos;s password in myqli_connect() parameters.</question>
+            <choice1>A. 1st parameter</choice1>
+            <choice2>B. 3rd parameter</choice2>
+            <choice3>C. 2nd parameter</choice3>
+            <choice4>D. 4th parameter</choice4>
+            <answer>D. 4th parameter</answer>
+        </item>
+        <item itemNo="149">
+            <question>It defines the database in myqli_connect() parameters.</question>
+            <choice1>A. 1st parameter</choice1>
+            <choice2>B. 3rd parameter</choice2>
+            <choice3>C. 2nd parameter</choice3>
+            <choice4>D. 4th parameter</choice4>
+            <answer>A. 1st parameter</answer>
+        </item>
+        <item itemNo="150">
+            <question>Which is correct about DELETE Statement?</question>
+            <choice1>A. Omitting the WHERE clause in DELETE Statement will delete all rows.</choice1>
+            <choice2>B. All rows removed on a table by a DELETE Statement are in an archive.</choice2>
+            <choice3>C. If the target column in the WHERE clause of a DELETE Statement is not UNIQUE, it will cause to remove more than on record</choice3>
+            <choice4>D. The DELETE Statement always requires the WHERE clause.</choice4>
+            <answer>A. Omitting the WHERE clause in DELETE Statement will delete all rows.</answer>
+        </item>
+    </quiz>
+    <quiz quizNo="11"><!-- LESSON 4 -->
+        <item itemNo="151">
+            <question>It is the DBMS used to store databases.</question>
+            <choice1>A. MySQL</choice1>
+            <choice2>B. Apache</choice2>
+            <choice3>C. Pearl</choice3>
+            <choice4>D. FileZilla</choice4>
+            <answer>A. MySQL</answer>
+        </item>
+        <item itemNo="152">
+            <question>PHPMyAdmin is	_____.</question>
+            <choice1>A. Database Management Tool</choice1>
+            <choice2>B. Database Management System</choice2>
+            <choice3>C. Web Development Toolkit</choice3>
+            <choice4>D. PHP Programming Interface</choice4>
+            <answer>A. Database Management Tool</answer>
+        </item>
+        <item itemNo="153">
+            <question>It is used to indicate whether a column is a PRIMARY KEY or UNIQUE.</question>
+            <choice1>A. Collation</choice1>
+            <choice2>B. Type</choice2>
+            <choice3>C. Index</choice3>
+            <choice4>D. A_I</choice4>
+            <answer>A. Collation</answer>
+        </item>
+        <item itemNo="154">
+            <question>It is used to indicate the type of MySQL schema.</question>
+            <choice1>A. Collation</choice1>
+            <choice2>B. Type</choice2>
+            <choice3>C. Index</choice3>
+            <choice4>D. A_I</choice4>
+            <answer>C. Index</answer>
+        </item>
+        <item itemNo="155">
+            <question>It is used to indicate what data type of a column to use.</question>
+            <choice1>A. Collation</choice1>
+            <choice2>B. Type</choice2>
+            <choice3>C. Index</choice3>
+            <choice4>D. A_I</choice4>
+            <answer>B. Type</answer>
+        </item>
+        <item itemNo="156">
+            <question>It is the statement used to create a new row(s) of a table.</question>
+            <choice1>A. SELECT statement</choice1>
+            <choice2>B. UPDATE statement</choice2>
+            <choice3>C. INSERT INTO statement</choice3>
+            <choice4>D. DELETE statement</choice4>
+            <answer>C. INSERT INTO statement</answer>
+        </item>
+        <item itemNo="157">
+            <question>It is the statement used to retrieve one or more rows of a table.</question>
+            <choice1>A. SELECT statement</choice1>
+            <choice2>B. UPDATE statement</choice2>
+            <choice3>C. INSERT INTO statement</choice3>
+            <choice4>D. DELETE statement</choice4>
+            <answer>A. SELECT statement</answer>
+        </item>
+        <item itemNo="158">
+            <question>It is the statement identified as DML.</question>
+            <choice1>A. SELECT statement</choice1>
+            <choice2>B. UPDATE statement</choice2>
+            <choice3>C. INSERT INTO statement</choice3>
+            <choice4>D. DELETE statement</choice4>
+            <answer>C. INSERT INTO statement</answer>
+        </item>
+        <item itemNo="159">
+            <question>It can be used for dates.</question>
+            <choice1>A. DATE</choice1>
+            <choice2>B. DATETIME</choice2>
+            <choice3>C. TIME</choice3>
+            <choice4>D. TIMESTAMP</choice4>
+            <answer>A. DATE</answer>
+        </item>
+        <item itemNo="160">
+            <question>These are characters with a fixed length.</question>
+            <choice1>A. STRING</choice1>
+            <choice2>B. VARCHAR</choice2>
+            <choice3>C. CHAR</choice3>
+            <choice4>D. TEXT</choice4>
+            <answer>C. CHAR</answer>
+        </item>
+        <item itemNo="161">
+            <question>These are variable-length characters (a variable-length).</question>
+            <choice1>A. STRING</choice1>
+            <choice2>B. VARCHAR</choice2>
+            <choice3>C. CHAR</choice3>
+            <choice4>D. TEXT</choice4>
+            <answer>B. VARCHAR</answer>
+        </item>
+        <item itemNo="162">
+            <question> It is used to find specific characters or words in records.</question>
+            <choice1>A. Table Search</choice1>
+            <choice2>B. Find and Replace</choice2>
+            <choice3>C. Zoom Search</choice3>
+            <choice4>D. SQL Search</choice4>
+            <answer>D. SQL Search</answer>
+        </item>
+        <item itemNo="163">
+            <question>Which is correct about MySQLi extension and PDO?</question>
+            <choice1>A. MySQLi extension provides both Object-Oriented and Procedural.</choice1>
+            <choice2>B. MySQLi extension only works in MySQL.</choice2>
+            <choice3>C. PDO works in different DBMS.</choice3>
+            <choice4>D. Only PDO provides Prepared Statements.</choice4>
+            <answer>A. MySQLi extension provides both Object-Oriented and Procedural.</answer>
+        </item>
+        <item itemNo="164">
+            <question> PDO requires this line of code to close the database connection.</question>
+            <choice1>A. $conn-&gt;close()</choice1>
+            <choice2>B. $conn = null</choice2>
+            <choice3>C. mysql_close($conn)</choice3>
+            <choice4>D. close($conn)</choice4>
+            <answer>B. $conn = null</answer>
+        </item>
+        <item itemNo="165">
+            <question>MySQLi extension (Procedural) requires this line of code to close the database connection.</question>
+            <choice1>A. $conn-&gt;close()</choice1>
+            <choice2>B. $conn = null</choice2>
+            <choice3>C. mysql_close($conn)</choice3>
+            <choice4>D. close($conn)</choice4>
+            <answer>C. mysql_close($conn)</answer>
+        </item>
+        <item itemNo="166">
+            <question>Which is correct about the PDO structure?</question>
+            <choice1>A. The function connect_error() is used to check if the program is connected to a database.</choice1>
+            <choice2>B. The function execute() is used to execute the query held by a variable.</choice2>
+            <choice3>C. The function exec() is used because there are no results returned by a program.</choice3>
+            <choice4>D. The function error() is used to return the program error&apos;s details.</choice4>
+            <answer>B. The function execute() is used to execute the query held by a variable.</answer>
+        </item>
+        <item itemNo="167">
+            <question>It defines the name of the host in myqli_connect() parameters.</question>
+            <choice1>A. 1st parameter</choice1>
+            <choice2>B. 3rd parameter</choice2>
+            <choice3>C. 2nd parameter</choice3>
+            <choice4>D. 4th parameter</choice4>
+            <answer>A. 1st parameter</answer>
+        </item>
+    </quiz>
+</quizzes>

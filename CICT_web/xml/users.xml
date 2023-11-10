@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<users>
+    <user uid="123">
+        <firstName/>
+        <lastName/>
+        <username>test</username>
+        <email>test@email.com</email>
+        <role/>
+        <password>123</password>
+        <profilePicture/>
+        <dateCreated>2023-04-26</dateCreated>
+    </user>
+    
+    
+    <user uid="345">
+        <firstName>Testo</firstName>
+        <lastName>as</lastName>
+        <username>testAdmin</username>
+        <email>admin@email.com</email>
+        <role>admin</role>
+        <password>123</password>
+        <profilePicture/>
+        <dateCreated>2023-05-21</dateCreated>
+    </user>
+<user uid="457"><firstName>newUser</firstName><lastName>testUser</lastName><username>User</username><email>qwe@email.com</email><role>admin</role><password>123</password><dateCreated>2023-05-08</dateCreated></user>
+<user uid="458"><firstName>Marcus</firstName><lastName>Sanchez</lastName><username>Laffey</username><email>laffey@gmail.com</email><password>123</password><role>student</role><profilePicture>uploads/312543473_363397849280785_3141822355645952898_n.jpg</profilePicture><dateCreated>2023-05-08</dateCreated><quiz qNo="1">5</quiz><quiz qNo="2">5</quiz><quiz qNo="3">5</quiz><quiz qNo="4">5</quiz><quiz qNo="5">5</quiz><quiz qNo="6">5</quiz><quiz qNo="7"/><quiz qNo="8"/><quiz qNo="9"/><quiz qNo="10"/><quiz qNo="11"/><assess aNo="1">10</assess><assess aNo="2"/></user><user uid="459"><firstName>Marcus</firstName><lastName>Sanchez</lastName><username>plutonicp</username><email>marcus@email.com</email><password>123</password><role>student</role><profilePicture>uploads/default.png</profilePicture><dateCreated>2023-05-08</dateCreated><quiz qNo="1"/><quiz qNo="2"/><quiz qNo="3"/><quiz qNo="4"/><quiz qNo="5"/><quiz qNo="6"/><quiz qNo="7"/><quiz qNo="8"/><quiz qNo="9"/><quiz qNo="10"/><quiz qNo="11"/><assess aNo="1"/><assess aNo="2"/></user></users>

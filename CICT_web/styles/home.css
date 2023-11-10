@@ -1,0 +1,150 @@
+@import url('https://fonts.googleapis.com/css2?family=Work+Sans:wght@300;400;500;600;700&display=swap');
+
+*{
+    padding: 0;
+    margin: 0;
+    text-decoration: none;
+    list-style: none;
+    box-sizing: border-box;
+}
+body{
+    font-family: "Work Sans", sans-serif !important;
+    background: #ebeaea !important;
+    overflow-x: hidden !important;
+    height: 100%;
+    overflow: hidden
+}
+
+#menu{
+    color: #d9534f !important;
+}
+
+#navbarz{
+    top: 0;
+    z-index: 100;
+    position: fixed;
+    width: 100%;
+}
+
+#table          { 
+    overflow: auto; height: 100px;
+ }
+ 
+#table thead th { 
+    position: sticky;
+    top: 0;
+    z-index: 1;
+    background-color: white;
+ }
+
+#sech{
+    margin-left: 100px;
+}
+
+.navbar-nav{
+    margin-left: 10px;
+}
+
+.navbar-nav .nav-item{
+    margin-left: 10px;
+}
+
+.dropdown{
+    margin-right: 3px;
+}
+
+.dropdown i{
+    font-size: 27px;  
+}
+
+#notif_drop{
+    margin-left: -100px;
+}
+#profile_drop{
+    margin-left: -90px;
+}
+
+#auth_name{
+    font-size: 12px ;
+}
+
+#foot_btn i:active{
+    color: red !important;
+}
+#foot_btnc{
+    margin-left: 100px !important;
+}
+
+#center_body{
+    margin-top: 70px;
+}
+
+#center_body{
+    margin-top: 80px;
+}
+#center_post{
+    margin-top: 70px;
+}
+
+#post{
+    margin-left: 20px;
+}
+
+#person{
+    font-size: 25px;
+    margin-left: 15px;
+}
+#attached{
+    font-style: italic;
+    color: rgb(157, 158, 158);
+}
+
+#popular{
+    position: fixed;
+    margin-top: 70px;
+}
+
+#Text1{
+    resize: none;
+}
+
+#sort{
+    font-size: 30px;
+}
+
+/*About us*/
+#about{
+    margin-top: 100px;
+}
+
+#profile{
+    font-size: 100px;
+}
+
+#lis{
+    padding-left: 50px;
+}
+
+.active a{
+    color: #d9534f !important;
+}
+
+#scroll{
+    height: 100px !important;
+}
+
+#lesson{
+    background-color: #d9534f !important;
+}
+
+.scroll{
+    overflow-y:auto !important;
+    height: 200px !important;
+  }
+
+.object-fit-cover {
+width:50px !important;
+height:50px !important;
+object-fit:cover !important;
+}
+

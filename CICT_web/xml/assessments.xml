@@ -1,0 +1,409 @@
+<?xml version="1.0"?>
+<assessments>
+    <assessment assessNo="1">
+        <item itemNo="1">
+            <question>What is PHP?</question>
+            <choice1>A. Hyperlink Processor</choice1>
+            <choice2>B. Hypermark Processor</choice2>
+            <choice3>C. Hypertext Preprocessor</choice3>
+            <choice4>D. Hypertext Processor</choice4>
+            <answer>D. Hypertext Processor</answer> <!--Answer-->
+        </item>
+        <item itemNo="2">
+            <question>How do you print output in PHP?</question>
+            <choice1>A. Writeline</choice1>
+            <choice2>B. Echo</choice2>
+            <choice3><![CDATA[C. &lt;p&gt;]]></choice3>
+            <choice4>D. printf</choice4>
+            <answer>B. Echo</answer> <!--Answer-->
+        </item>
+        <item itemNo="3">
+            <question>PHP is a fast, secure, and reliable web development program. It makes it accessible and convenient for a lot of people.</question>
+            <choice1>A. True</choice1>
+            <choice2>B. False</choice2>
+            <choice3>C. Both A &amp; B</choice3>
+            <choice4>D. None</choice4>
+            <answer>A. True</answer> <!--Answer-->
+        </item>
+        <item itemNo="4">
+            <question>PHP language can be used on all major operating systems such as Linux, Unix variants, Microsoft Windows, Mac OS, etc.</question>
+            <choice1>A. True</choice1>
+            <choice2>B. False</choice2>
+            <choice3>C. Both A &amp; B</choice3>
+            <choice4>D. None</choice4>
+            <answer>A. True</answer> <!--Answer-->
+        </item>
+        <item itemNo="5">
+            <question>PHP web development is an open source but its components are not free to use. </question>
+            <choice1>A. True</choice1>
+            <choice2>B. False</choice2>
+            <choice3>C. Both A &amp; B</choice3>
+            <choice4>D. None</choice4>
+            <answer>B. False</answer> <!--Answer-->
+        </item>
+        <item itemNo="6">
+            <question>How do you open tags in PHP?</question>
+            <choice1>A. "&lt;?php"</choice1>
+            <choice2>B. "?&lt;php&gt;"</choice2>
+            <choice3>C. "&lt;?php&gt;"</choice3>
+            <choice4>D. "?&lt;php"</choice4>
+            <answer>A. "&lt;?php"</answer> <!--Answer-->
+        </item>
+        <item itemNo="7">
+            <question>How do you declare Variables in PHP?</question>
+            <choice1>A. "%"</choice1>
+            <choice2>B. "."</choice2>
+            <choice3>C. "$"</choice3>
+            <choice4>D. "#"</choice4>
+            <answer>C. "$"</answer> <!--Answer-->
+        </item>
+        <item itemNo="8"> 
+            <question> <![CDATA[&lt;?php <br/> $d = date("D"); <br/> if($d == "Fri") { <br/> echo "Have a great weekend!"; <br/> } <br/> elseif($d == "Sun") { <br/>  echo "Have a blessed Sunday!"; <br/> } <br/> else { <br/> echo "Have a great day!"; <br/> } <br/> ?&gt; <br/> Given the code, what will be the output if ($d == "Mon")?]]></question>
+            <choice1>A. Have a great weekend!</choice1>
+            <choice2>B. Have a blessed Sunday!</choice2>
+            <choice3>C. Have a great day!</choice3>
+            <choice4>D. no output</choice4> 
+            <answer>C. Have a great day!</answer> <!--Answer-->
+        </item>
+        <item itemNo="9">
+            <question><![CDATA[&lt;?php <br/> $d = date("D"); <br/> if($d == "Fri") { <br/> echo "Have a great weekend!"; <br/> } <br/> elseif($d == "Sun") { <br/> echo "Have a blessed Sunday!"; 
+            <br/> } <br/> else{ <br/> echo "Have a great day!"; <br/> } <br/> ?&gt; <br/> Given the code, what will be the output if ($d == "Sat")?]]></question> 
+            <choice1>A. Have a great weekend!</choice1>
+            <choice2>B. Have a blessed Sunday!</choice2>
+            <choice3>C. Have a great day!</choice3>
+            <choice4>D. no output</choice4>
+            <answer>C. Have a great day!</answer> <!--Answer-->
+        </item>
+        <item itemNo="10">
+            <question><![CDATA[&lt;?php <br/> $d = date("D"); <br/> if($d == "Fri") { <br/> echo "Have a great weekend!"; <br/> } <br/> elseif($d == "Sun") { <br/> echo "Have a blessed Sunday!"; 
+            <br/> } <br/> else{ <br/> echo "Have a great day!"; <br/> } <br/> ?&gt; <br/> Given the code, what will be the output if ($d == "Fri")?]]></question> 
+            <choice1>A. Have a great weekend!</choice1>
+            <choice2>B. Have a blessed Sunday!</choice2>
+            <choice3>C. Have a great day!</choice3>
+            <choice4>D. no output</choice4>
+            <answer>A. Have a great weekend!</answer> <!--Answer-->
+        </item>
+        <item itemNo="11">
+            <question>This method is used to count the number of characters within a string.</question>
+            <choice1>A. length()</choice1>
+            <choice2>B. strlength()</choice2>
+            <choice3>C. stringlen()" </choice3>
+            <choice4>D. strlen()</choice4>
+            <answer>D. strlen()</answer> <!--Answer-->
+        </item>
+        <item itemNo="12">
+            <question>This method is used to replace all occurrences of the text searched within the target string.</question>
+            <choice1>A. replace()</choice1>
+            <choice2>B. strreplace()</choice2>
+            <choice3>C. str_replace()</choice3>
+            <choice4>D. replacestr()</choice4>
+            <answer>C. str_replace()</answer> <!--Answer-->
+        </item>
+        <item itemNo="13">
+            <question>Which PHP method converts an array to a string?</question>
+            <choice1>A. explode()</choice1>
+            <choice2>B. implode()</choice2>
+            <choice3>C. shuffle()</choice3>
+            <choice4>D. sort()</choice4>
+            <answer>B. implode()</answer> <!--Answer-->
+        </item>
+        <item itemNo="14">
+            <question>Which PHP method shuffles all the elements in an array?</question>
+            <choice1>A. implode()</choice1>
+            <choice2>B. explode()</choice2>
+            <choice3>C. sort()</choice3>
+            <choice4>D. shuffle()</choice4>
+            <answer>D. Shuffle</answer> <!--Answer-->
+        </item>
+        <item itemNo="15">
+            <question>Which PHP method sorts an array?</question>
+            <choice1>A. implode()</choice1>
+            <choice2>B. explode()</choice2>
+            <choice3>C. sort()</choice3>
+            <choice4>D. shuffle()</choice4>
+            <answer>C. sort()</answer> <!--Answer-->
+        </item>
+        <item itemNo="16">
+            <question>Are used to create a list of elements of distinctive types, which can be gotten to utilizing their index or key.</question>
+            <choice1>A. Multi - dimensional Arrays</choice1>
+            <choice2>B. Indexed Arrays</choice2>
+            <choice3>C. Associative Arrays</choice3>
+            <choice4>D. Arrays</choice4>
+            <answer>D. Arrays</answer> <!--Answer-->
+        </item>
+        <item itemNo="17">
+            <question>___ is utilized by the carriage-return character</question>
+            <choice1>A. "\n"</choice1>
+            <choice2>B. "\r"</choice2>
+            <choice3>C. "\t"</choice3>
+            <choice4>D. "\$"</choice4>
+            <answer>B. "\r"</answer> <!--Answer-->
+        </item>
+        <item itemNo="18">
+            <question>What character is used to represent the day of the month?</question>
+            <choice1>A. "d"</choice1>
+            <choice2>B. "m"</choice2>
+            <choice3>C. "Y"</choice3>
+            <choice4>D. "l"</choice4>
+            <answer>A. "d"</answer> <!--Answer-->
+        </item>
+        <item itemNo="19">
+            <question>What character is used to represent the year in four digits?</question>
+            <choice1>A. "d"</choice1>
+            <choice2>B. "m"</choice2>
+            <choice3>C. "Y"</choice3>
+            <choice4>D. "l"</choice4>
+            <answer>C. "Y"</answer> <!--Answer-->
+        </item>
+        <item itemNo="20">
+            <question>_________ could be a variation of the while loop, which assesses the condition at the end of each loop cycle.</question>
+            <choice1>A. While loop</choice1>
+            <choice2>B. Do While loop</choice2>
+            <choice3>C. For loop</choice3>
+            <choice4>D. Switch</choice4>
+            <answer>B. Do While loop</answer> <!--Answer-->
+        </item>
+        <item itemNo="21">
+            <question>What is the meaning of the second P in XAMPP?</question>
+            <choice1>A. Powershell</choice1>
+            <choice2>B. Perl</choice2>
+            <choice3>C. Python</choice3>
+            <choice4>D. PHP</choice4>
+            <answer>B. Perl</answer> <!--Answer-->
+        </item>
+        <item itemNo="22">
+            <question>XAMPP consists of the following choices below, except one. Choose an odd one out.</question>
+            <choice1>A. MySQL</choice1>
+            <choice2>B. Python</choice2>
+            <choice3>C. Apache</choice3>
+            <choice4>D. Perl</choice4>
+            <answer>B. Python</answer> <!--Answer-->
+        </item>
+        <item itemNo="23">
+            <question>_________ loops through a piece of code as long as the condition indicated is assessed to be correct.</question>
+            <choice1>A. While loop</choice1>
+            <choice2>B. Do while loop</choice2>
+            <choice3>C. For loop</choice3>
+            <choice4>D. Switch</choice4>
+            <answer>A. While loop</answer> <!--Answer-->
+        </item>
+        <item itemNo="24">
+            <question>What is the difference between the include() and require() functions?</question>
+            <choice1>A.The include() function produces a warning and allows the script to continue if the file to be included is not found, while the require() function creates a fatal error and stops the script execution.</choice1>
+            <choice2>B. The include() function produces a warning and allows the script to continue if the file to be included is not found, while the require() function creates a fatal error and stops the script execution.</choice2>
+            <choice3>C. The include() function creates a fatal error and stops the script execution, while the require() function produces a warning and allows the script to continue if the file to be included is not found</choice3>
+            <choice4>D. None of the above</choice4>
+            <answer>B. Echo</answer> <!--Answer-->
+        </item>
+        <item itemNo="25">
+            <question>is utilized by the dollar sign itself</question>
+            <choice1>A. "\n"</choice1>
+            <choice2>B. "\r"</choice2>
+            <choice3>C. "\t"</choice3>
+            <choice4>D. "\$"</choice4>
+            <answer>D. "\$"</answer> <!--Answer-->
+        </item>
+    </assessment>
+    <assessment assessNo="2"> <!-- UNIT 5 -->
+        <item itemNo="1"> <!-- Number 1 Unit 5 -->
+            <question>What is &#x201C;X&#x201D; in XAMPP?</question>
+            <choice1>A.	Extended</choice1>
+            <choice2>B. Extensive</choice2>
+            <choice3>C. Cross-Platform</choice3>
+            <choice4>D. Extended-Platform</choice4>
+            <answer>D. Extended-Platform</answer> <!--Answer-->
+        </item>
+        <item itemNo="2">
+            <question>What is &#x201C;A&#x201D; in XAMPP?</question>
+            <choice1>A. Apache</choice1>
+            <choice2>B. Application</choice2>
+            <choice3>C. Applicable</choice3>
+            <choice4>D. None of the above</choice4>
+            <answer>A. Apache</answer> <!--Answer-->
+        </item>
+        <item itemNo="3">
+            <question>What is &#x201C;M&#x201D; in XAMPP? </question>
+            <choice1>A. MyAdmin</choice1>
+            <choice2>B. MyApache</choice2>
+            <choice3>C. MySQL</choice3>
+            <choice4>D. None of the above</choice4>
+            <answer>C. MySQL</answer> <!--Answer-->
+        </item>
+        <item itemNo="4">
+            <question> It is a server-side scripting language used to develop dynamic web pages.</question>
+            <choice1>A. JavaScript</choice1>
+            <choice2>B. MySQL</choice2>
+            <choice3>C. PHP</choice3>
+            <choice4>D. XML</choice4>
+            <answer>C. PHP</answer> <!--Answer-->
+        </item>
+        <item itemNo="5">
+            <question> It is the common Database Management System used in web development.</question>
+            <choice1>A. phpMyAdmin</choice1>
+            <choice2>B. Visual Studio</choice2>
+            <choice3>C. MySQL</choice3>
+            <choice4>D. Apache</choice4>
+            <answer>C. MySQL</answer> <!--Answer-->
+        </item>
+        <item itemNo="6">
+            <question> This data type consists of whole numbers.</question>
+            <choice1>A. FLOAT</choice1>
+            <choice2>B. INT</choice2>
+            <choice3>C. DOUBLE"</choice3>
+            <choice4>D. CHAR</choice4>
+            <answer>B. INT</answer> <!--Answer-->
+        </item>
+        <item itemNo="7">
+            <question> This data type consists of large amount of texts. </question>
+            <choice1>A. CHAR</choice1>
+            <choice2>B. VARCHAR</choice2>
+            <choice3>C. TEXT</choice3>
+            <choice4>D. INT</choice4>
+            <answer>C. TEXT</answer> <!--Answer-->
+        </item>
+        <item itemNo="8"> 
+            <question> This data type can be used only for dates.</question>
+            <choice1>A. CHAR</choice1>
+            <choice2>B. VARCHAR</choice2>
+            <choice3>C. TEXT</choice3>
+            <choice4>D. DATE</choice4>
+            <answer>D. DATE</answer> <!--Answer-->
+        </item>
+        <item itemNo="9">
+            <question> This data type consists of fixed length of characters </question> 
+            <choice1>A. CHAR</choice1>
+            <choice2>B. VARCHAR</choice2>
+            <choice3>C. TEXT</choice3>
+            <choice4>D. DATE</choice4>
+            <answer>A. CHAR</answer> <!--Answer-->
+        </item>
+        <item itemNo="10">
+            <question> It is used if a column needs other types of MySQL schema</question> 
+            <choice1>A. Null</choice1>
+            <choice2>B. Index</choice2>
+            <choice3>C. Collation</choice3>
+            <choice4>D. Non of the above</choice4>
+            <answer>C. Collation</answer> <!--Answer-->
+        </item>
+        <item itemNo="11">
+            <question> In _______ a table must be selected first or just select the Insert link on the table&#x2019;s Actions column. </question>
+            <choice1>A. Retrieving Records</choice1>
+            <choice2>B. Inserting Records</choice2>
+            <choice3>C. Deleting Records</choice3>
+            <choice4>D. Modifying Records</choice4>
+            <answer>B. Inserting Records</answer> <!--Answer-->
+        </item>
+        <item itemNo="12">
+            <question> In _________ a table must be selected first or just select the Search link on the table&#x2019;s Actions column. </question>
+            <choice1>A. Retrieving Records</choice1>
+            <choice2>B. Inserting Records</choice2>
+            <choice3>C. Deleting Records</choice3>
+            <choice4>D. Modifying Records</choice4>
+            <answer>A. Retrieving Records</answer> <!--Answer-->
+        </item>
+        <item itemNo="13">
+            <question> In _________ a table must be selected first. The link will redirect to the page where the record(s) can be deleted. </question>
+            <choice1>A. Retrieving Records</choice1>
+            <choice2>B. Inserting Records</choice2>
+            <choice3>C. Deleting Records</choice3>
+            <choice4>D. Modifying Records</choice4>
+            <answer>C. Deleting Records</answer> <!--Answer-->
+        </item>
+        <item itemNo="14">
+            <question> In _________ a table must be selected first. The link will redirect to the page where the record(s) can be modified</question>
+            <choice1>A. Retrieving Records</choice1>
+            <choice2>B. Inserting Records</choice2>
+            <choice3>C. Deleting Records</choice3>
+            <choice4>D. Modifying Records</choice4>
+            <answer>D. Modifying Records</answer> <!--Answer-->
+        </item>
+        <item itemNo="15">
+            <question>It is a database extension implemented to use in PHP 5.5 or above.It is an extension that only works with MySQL databases.</question>
+            <choice1>A. PDO</choice1>
+            <choice2>B. MySQLi extension</choice2> 
+            <choice3>C. Apache</choice3>
+            <choice4>D. phpMyAdmin</choice4>
+            <answer>B. MySQLi extension</answer> <!--Answer-->
+        </item>
+        <item itemNo="16">
+            <question>It is a database extension implemented to use for database connections using PHP 5.1 or above. This extension works in any DBMS.</question>
+            <choice1>A. PDO</choice1>
+            <choice2>B. MySQLi extension</choice2> 
+            <choice3>C. Apache</choice3>
+            <choice4>D. phpMyAdmin</choice4>
+            <answer>D. Arrays</answer> <!--Answer-->
+        </item>
+        <item itemNo="17">
+            <question>It is the statement used to create new row(s) of a table </question>
+            <choice1>A. SELECT statement</choice1>
+            <choice2>B. UPDATE statement</choice2>
+            <choice3>C. INSERT INTO statement</choice3>
+            <choice4>D. DELETE statement</choice4>
+            <answer>C. INSERT INTO statement</answer> <!--Answer-->
+        </item>
+        <item itemNo="18">
+            <question>It is the statement that removes one or more rows in a table. </question>
+            <choice1>A. SELECT statement</choice1>
+            <choice2>B. UPDATE statement</choice2>
+            <choice3>C. INSERT INTO statement</choice3>
+            <choice4>D. DELETE statement</choice4>
+            <answer>D. DELETE statement</answer> <!--Answer-->
+        </item>
+        <item itemNo="19">
+            <question>It is a DML statement that modifies existing rows in a table</question>
+            <choice1>A. SELECT statement</choice1>
+            <choice2>B. UPDATE statement</choice2>
+            <choice3>C. INSERT INTO statement</choice3>
+            <choice4>D. DELETE statement</choice4>
+            <answer>B. UPDATE statement</answer> <!--Answer-->
+        </item>
+        <item itemNo="20">
+            <question> XAMPP is a _________ </question>
+            <choice1>A. Server Management tool</choice1>
+            <choice2>B. Database Management tool</choice2>
+            <choice3>C. PHP Development Environment</choice3>
+            <choice4>D. PHP Programming Interface</choice4>
+            <answer>C. PHP Development Environment</answer> <!--Answer-->
+        </item>
+        <item itemNo="21">
+            <question> phpMyAdmin is a _________</question>
+            <choice1>A. Server Management tool</choice1>
+            <choice2>B. Database Management tool</choice2>
+            <choice3>C. PHP Development Environment</choice3>
+            <choice4>D. PHP Programming Interface</choice4>
+            <answer>B. Database Management tool</answer> <!--Answer-->
+        </item>
+        <item itemNo="22">
+            <question>PDO requires this line of code to close the database connection.</question>
+            <choice1>A. $conn-&gt;close()</choice1>
+            <choice2>B. $conn = null</choice2>
+            <choice3>C. mysqli_close($conn)</choice3>
+            <choice4>D. close($conn)</choice4>
+            <answer>B. $conn = null</answer> <!--Answer-->
+        </item>
+        <item itemNo="23">
+            <question>MySQLi extension (Procedural) requires this line of code to close the database connection. </question>
+            <choice1>A. $conn-&gt;close()</choice1>
+            <choice2>B. $conn = null</choice2>
+            <choice3>C. mysqli_close($conn)</choice3>
+            <choice4>D. close($conn)</choice4>
+            <answer>C. mysqli_close($conn)</answer> <!--Answer-->
+        </item>
+        <item itemNo="24">
+            <question>It is used to find specific characters or words in record </question>
+            <choice1>A. Find and Replace</choice1>
+            <choice2>B. Table search</choice2>
+            <choice3>C. Zoom search</choice3>
+            <choice4>D. SQL search</choice4>
+            <answer>A. Find and Replace</answer> <!--Answer-->
+        </item>
+        <item itemNo="25">
+            <question>is utilized by the dollar sign itself</question>
+            <choice1>A. MySQL</choice1>
+            <choice2>B. Apache</choice2>
+            <choice3>C. Perl</choice3>
+            <choice4>D. FileZilla</choice4>
+            <answer>A. MySQL</answer> <!--Answer-->
+        </item>
+    </assessment>
+</assessments>
